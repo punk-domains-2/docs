@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# Contract addresses
+# Factory addresses
 
 Below are listed addresses for the first Punk Domains TLD factory which allows for one-time TLD and domain purchases.
 
