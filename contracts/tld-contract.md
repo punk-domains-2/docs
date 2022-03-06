@@ -2,7 +2,7 @@
 order: 28
 ---
 
-# TLD Contract
+# TLD template contract
 
 TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
 
@@ -249,3 +249,15 @@ function tokenURI(uint256) public view override returns (string memory)
 Output:
 
 - Domain holder's selected URL
+
+## Write methods
+
+- TODO...
+
+## Owner methods
+
+- TODO...
+
+## Factory owner methods
+
+- TODO...

@@ -2,7 +2,7 @@
 order: 30
 ---
 
-# TLD Factory Contract
+# TLD factory contract
 
 TLD Factory is owned by Punk Domains governance. This contract is responsible for issuing new TLDs and keeping a list of all currently existing TLDs and their respective addresses.
 
@@ -84,7 +84,7 @@ This is useful for default domain name NFT images which show the project name at
 function projectName() public view returns(string)
 ```
 
-## Public Write method
+## Write method
 
 ### `createTld`
 
@@ -112,7 +112,7 @@ Output:
 
 - Newly created TLD address
 
-## Owner Write methods
+## Owner methods
 
 ### `ownerCreateTld`
 
