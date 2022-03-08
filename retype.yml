@@ -14,5 +14,13 @@ links:
   link: https://punk.domains/
   icon: sign-out
   target: blank
+- text: Discord
+  link: https://discord.gg/8dSrwrAQeu
+  icon: sign-out
+  target: blank
+- text: Twitter
+  link: https://twitter.com/PunkDomains
+  icon: sign-out
+  target: blank
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
