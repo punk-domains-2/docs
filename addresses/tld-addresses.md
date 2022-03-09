@@ -4,10 +4,13 @@ order: 40
 
 # TLD addresses
 
+> Note that only TLDs that have buying domains enabled are visible on the Punk Domains front page.
+
 ### Gnosis Chain
 
 - .gnosis: [0xbdacf94ddcab51c39c2dd50bffee60bb8021949a](https://blockscout.com/xdai/mainnet/address/0xbdacf94ddcab51c39c2dd50bffee60bb8021949a)
 - .xdai: [0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096](https://blockscout.com/xdai/mainnet/address/0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096)
+- .bright: [0x4da0a46cc54439b1dE0203d376b98D988697091d](https://blockscout.com/xdai/mainnet/address/0x4da0a46cc54439b1dE0203d376b98D988697091d)
 
 ### Optimism
 
@@ -22,6 +25,7 @@ order: 40
 - .ape: [0xBe3655C0e457DF3A551E5d0Ecee5D6a6E69E3E8d](https://polygonscan.com/address/0xBe3655C0e457DF3A551E5d0Ecee5D6a6E69E3E8d)
 - .poly: [0x760D82D92f3A76d961961D6607E062Ca10b1C172](https://polygonscan.com/address/0x760D82D92f3A76d961961D6607E062Ca10b1C172)
 - .degen: [0x614cD3F6751ABD5a8d33C04AdE6dFeF58b521820](https://polygonscan.com/address/0x614cD3F6751ABD5a8d33C04AdE6dFeF58b521820)
+- .humandao: [0xFeB49640DF4eA8d14FfB452B53DcEE275064d77C](https://polygonscan.com/address/0xFeB49640DF4eA8d14FfB452B53DcEE275064d77C)
 
 ### Arbitrum
 
