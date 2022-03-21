@@ -42,6 +42,10 @@ Each TLD will now have a referral system, which means that a certain percentage 
 
 The **default** referral fee is 10%, but the owner can set it to any number between 0% and 50%. The TLDs owned by Punk Domains will have the referral fee at 10% at the start.
 
+> How do referrals work on Punk Domains website? 
+> 
+> Simple! Just add `?ref=0xYourAddress` or `?ref=your.domain` to the URL and the website will remember you as a referrer. So next time you mint a domain (on v2), you should be able to see in block explorer that you have received a referral fee (on testnets it's 10%).
+
 ### V2 Deployment
 
 Note that changes are not yet live. We will be deploying new v2 contracts **gradually** across the supported chains.
