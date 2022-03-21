@@ -15,8 +15,8 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Testnets
 
-- Sokol (Gnosis Chain): 0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1
-- Optimism Kovan: 0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789
-- Mumbai (Polygon): 0x3047F44d0A8383EDd59A583092d7E6DB7ade85e0
+- Sokol (Gnosis Chain): 0xf6A44f61030115B5dA382b198B711130D98390d9
+- Optimism Kovan: 0x0F081cad5BCed7B2acA1c1D22CdafcB21322B280
+- Mumbai (Polygon): 0xC74f279E5A7FDAd6624054518773ae4EC77E78D3
 - Ropsten: 0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D
-- Arbitrum testnet: 0x80FD99Ed821043d37E2b237aA0601bFa523c5110
+- Arbitrum testnet: 0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE
