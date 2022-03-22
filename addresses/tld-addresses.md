@@ -8,9 +8,9 @@ order: 40
 
 ### Gnosis Chain
 
-- .gnosis: [0xbdacf94ddcab51c39c2dd50bffee60bb8021949a](https://blockscout.com/xdai/mainnet/address/0xbdacf94ddcab51c39c2dd50bffee60bb8021949a)
-- .xdai: [0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096](https://blockscout.com/xdai/mainnet/address/0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096)
-- .bright: [0x4da0a46cc54439b1dE0203d376b98D988697091d](https://blockscout.com/xdai/mainnet/address/0x4da0a46cc54439b1dE0203d376b98D988697091d)
+- .gnosis: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://blockscout.com/xdai/mainnet/address/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
+- .xdai: [0xbca24d86e4ad1e011278faefc4ff191a731411ec](https://blockscout.com/xdai/mainnet/address/0xbca24d86e4ad1e011278faefc4ff191a731411ec)
+- .bright: [0x3490c9817c45a2a394b11a3807f58a8325235ae0](https://blockscout.com/xdai/mainnet/address/0x3490c9817c45a2a394b11a3807f58a8325235ae0)
 
 ### Optimism
 
