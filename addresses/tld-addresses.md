@@ -20,12 +20,11 @@ order: 40
 
 ### Polygon PoS Chain
 
-- .web3: [0x46Ee2d28f4b3555492296bfE1509Ea22FF47b71e](https://polygonscan.com/address/0x46Ee2d28f4b3555492296bfE1509Ea22FF47b71e)
-- .polygon: [0xdf9559841F6ee36C6a86FE7c058bD8736E132c5f](https://polygonscan.com/address/0xdf9559841F6ee36C6a86FE7c058bD8736E132c5f)
-- .ape: [0xBe3655C0e457DF3A551E5d0Ecee5D6a6E69E3E8d](https://polygonscan.com/address/0xBe3655C0e457DF3A551E5d0Ecee5D6a6E69E3E8d)
-- .poly: [0x760D82D92f3A76d961961D6607E062Ca10b1C172](https://polygonscan.com/address/0x760D82D92f3A76d961961D6607E062Ca10b1C172)
-- .degen: [0x614cD3F6751ABD5a8d33C04AdE6dFeF58b521820](https://polygonscan.com/address/0x614cD3F6751ABD5a8d33C04AdE6dFeF58b521820)
-- .humandao: [0xFeB49640DF4eA8d14FfB452B53DcEE275064d77C](https://polygonscan.com/address/0xFeB49640DF4eA8d14FfB452B53DcEE275064d77C)
+- .web3: [0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B](https://polygonscan.com/address/0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B)
+- .polygon: [0xa450bc33d0940d25fB0961c592fb440Fa63ABE03](https://polygonscan.com/address/0xa450bc33d0940d25fB0961c592fb440Fa63ABE03)
+- .ape: [0x794a8390D94E32b086908D2bA9D66300aA163C62](https://polygonscan.com/address/0x794a8390D94E32b086908D2bA9D66300aA163C62)
+- .poly: [0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f](https://polygonscan.com/address/0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f)
+- .degen: [0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9](https://polygonscan.com/address/0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9)
 
 ### Arbitrum
 
