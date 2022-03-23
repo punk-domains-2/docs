@@ -11,7 +11,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Gnosis Chain: [0xA8221890768603210c1a32d88374111084E46E6d](https://blockscout.com/xdai/mainnet/address/0xA8221890768603210c1a32d88374111084E46E6d)
 - Optimism: [0xA8221890768603210c1a32d88374111084E46E6d](https://optimistic.etherscan.io/address/0xA8221890768603210c1a32d88374111084E46E6d)
 - Polygon PoS Chain: [0xB6cf67a0aCE92F357908C6eF716a34c9b196c1DC](https://polygonscan.com/address/0xB6cf67a0aCE92F357908C6eF716a34c9b196c1DC)
-- Arbitrum: [0x1D882E64bb7f4D49e67018d81254236A2A6465a3](https://arbiscan.io/address/0x1d882e64bb7f4d49e67018d81254236a2a6465a3)
+- Arbitrum: [0x4bD57a848c56E6241296a1256FB2bDEbCdbb9dB0](https://arbiscan.io/address/0x4bD57a848c56E6241296a1256FB2bDEbCdbb9dB0)
 
 ### Testnets
 
