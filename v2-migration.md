@@ -48,6 +48,8 @@ The **default** referral fee is 10%, but the owner can set it to any number betw
 > 
 > Simple! Just add `?ref=0xYourAddress` or `?ref=your.domain` to the URL and the website will remember you as a referrer. So next time you mint a domain (on v2), you should be able to see in block explorer that you have received a referral fee (on testnets it's 10%).
 
+![](/static/referrals.png)
+
 ### V2 Deployment
 
 Punk Domains has (as of 23 March 2022) migrated to version 2. If you've minted domains in V1, you'll automatically receive new ones. Old domain NFTs will be marked as deprecated, so just ignore them. 
