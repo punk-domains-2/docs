@@ -14,9 +14,9 @@ order: 40
 
 ### Optimism
 
-- .wagmi: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://optimistic.etherscan.io/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
-- .optimism: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://optimistic.etherscan.io/address/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096)
-- .spartan: [0x4da0a46cc54439b1dE0203d376b98D988697091d](https://optimistic.etherscan.io/address/0x4da0a46cc54439b1dE0203d376b98D988697091d)
+- .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/address/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
+- .optimism: [0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC](https://optimistic.etherscan.io/address/0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC)
+- .spartan: [0x3490C9817C45A2a394b11A3807f58a8325235aE0](https://optimistic.etherscan.io/address/0x3490C9817C45A2a394b11A3807f58a8325235aE0)
 
 ### Polygon PoS Chain
 
