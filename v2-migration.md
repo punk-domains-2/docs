@@ -1,10 +1,12 @@
 ---
-order: 30
+order: 90
 icon: flame
 image: ./static/old-new-domain-image.png
 ---
 
-# Punk Domains v2 coming soon!
+# IMPORTANT: MIGRATION TO V2
+
+> Punk Domains is migrating to version 2. If you've minted domains in V1, you'll automatically get new ones. Old ones will be marked as deprecated, so just ignore them.
 
 We're adding new exciting features to Punk Domains and making it more gas efficient. 🤘
 
