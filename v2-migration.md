@@ -4,13 +4,13 @@ icon: flame
 image: ./static/old-new-domain-image.png
 ---
 
-# IMPORTANT: MIGRATION TO V2
+# Punk Domains Version 2 (migration completed)
 
-> Punk Domains is migrating to version 2. If you've minted domains in V1, you'll automatically get new ones. Old ones will be marked as deprecated, so just ignore them.
+> Punk Domains has migrated to version 2. If you've minted domains in V1, you'll automatically get new ones. Old ones will be marked as deprecated, so just ignore them. All newly created domains are now v2 domains.
 
-We're adding new exciting features to Punk Domains and making it more gas efficient. 🤘
+We have added new exciting features to Punk Domains and making it more gas efficient. 🤘
 
-Let's take a look at what's coming.
+Let's take a look at what's new!
 
 ### 1. New default domain image
 
@@ -40,7 +40,7 @@ Instead, both URL and  profile picture data can be defined in the **custom data*
 
 Away from the very technical subjects and onto something we think you'll all love! Now **you can get paid for referring** Punk Domains to others!
 
-Each TLD will now have a referral system, which means that a certain percentage of a domain mint payment could go to a referrer (if TLD owner sets the referral fee above 0%). 
+Each TLD now has a referral system, which means that a certain percentage of a domain mint payment could go to a referrer (if TLD owner sets the referral fee above 0%). 
 
 The **default** referral fee is 10%, but the owner can set it to any number between 0% and 50%. The TLDs owned by Punk Domains will have the referral fee at 10% at the start.
 
@@ -50,4 +50,6 @@ The **default** referral fee is 10%, but the owner can set it to any number betw
 
 ### V2 Deployment
 
-Note that changes are not yet live. We will be deploying new v2 contracts **gradually** across the supported chains.
+Punk Domains has (as of 23 March 2022) migrated to version 2. If you've minted domains in V1, you'll automatically receive new ones. Old domain NFTs will be marked as deprecated, so just ignore them. 
+
+All newly created domains are now v2 domains.
