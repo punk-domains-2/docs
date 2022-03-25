@@ -20,18 +20,15 @@ struct Domain {
 	uint256 tokenId;
 	address holder;
 	string data;
-	string url;
-	address pfpAddress;
-	uint256 pfpTokenId;
 }
 ```
 
 - `name`: Domain name that goes before the TLD name. For example: `techie` in `techie.web3`.
 - `tokenId`: Each domain is an NFT, which means it has a unique token ID. ID numbers increment for every newly minted domain starting with `0`.
 - `holder`: The address that owns the domain. Domain also resolves to this address.
-- `data` (optional): Domain can also hold custom data in a stringified JSON object, for example: `{"description": "Some text", "twitter": "@techie1239", "friends": ["0x123..."]}`.
-- `url` (optional): Domain holder can specify a URL that his domain redirects to for users that use Punk Domains browser extension.
-- `pfpAddress` and `pfpTokenId` (optional): Domain holder can set a default profile picture (an ERC-721 NFT that they own). This is useful for third-party integrations, for example games which would use Punk Domains for user profiles.
+- `data` (optional): Domain can also hold custom data in a stringified JSON object, for example: `{"url": "https://my.homepage", "image": {"address": "0x123...orUrl", "tokenId": 22}, "description": "Some text", "twitter": "@techie1239", "friends": ["0x123..."]}`.
+
+Read more about custom data [here](custom-data.md).
 
 ## Read methods
 
@@ -168,39 +165,6 @@ Output:
 
 - Domain holder's address
 
-
-### `getDomainPfpAddress`
-
-Returns the domain holder's PFP address. If there's no selected PFP (yet), the returned address is the `0x0` address.
-
-Input:
-
-- Domain name
-
-```solidity
-function getDomainPfpAddress(string memory) public view returns(address)
-```
-
-Output:
-
-- Domain holder's selected PFP address (important: the holder must of that NFT)
-
-### `getDomainPfpTokenId`
-
-Returns the domain holder's PFP token ID. If there's no selected PFP (yet), the returned integer is `0`.
-
-Input:
-
-- Domain name
-
-```solidity
-function getDomainPfpTokenId(string memory) public view returns(uint256)
-```
-
-Output:
-
-- Domain holder's selected PFP token ID (important: the holder must of that NFT)
-
 ### `getDomainData`
 
 Returns the domain holder's **custom** data. Note that this is different from the `domains` call which returns all domain struct data, not just the custom data string.
@@ -217,22 +181,17 @@ Output:
 
 - Domain holder's custom data as a stringified JSON object.
 
-### `getDomainUrl`
+### `getFactoryOwner`
 
-Returns the domain holder's selected URL. If URL is set up, then anyone who uses Punk Domains browser extension will get redirected to the designated URL.
-
-Input:
-
-- Domain name
+Returns the address that controls the TLD Factory. This address is effectively Punk Domains governance.
 
 ```solidity
-function getDomainUrl(string memory) public view returns(string memory)
+function getFactoryOwner() public view returns(address)
 ```
 
 Output:
 
-- Domain holder's selected URL
-
+- Address that owns the Factory contract
 
 ### `tokenURI`
 
@@ -252,12 +211,138 @@ Output:
 
 ## Write methods
 
-- TODO...
+### `editDefaultDomain`
+
+Through this function, a user can set one of their domains as their default domain (within the TLD that's defined by that contract, of course).
+
+Input:
+
+- Domain name to be set as default
+
+```solidity
+function editDefaultDomain(string calldata _domainName) external
+```
+
+Emitted events:
+- `DefaultDomainChanged` event
+
+### `editData`
+
+Function where user can edit custom data. Thread carefully, so that data is not accidentally deleted.
+
+Input:
+
+- Domain name
+- Data (stringified JSON object)
+
+```solidity
+function editData(string calldata _domainName, string calldata _data) external
+```
+
+Emitted events:
+- `DataChanged` event
+
+### `mint`
+
+Function to mint a new domain for a specific address (owner). Note that TLD owner can call this function even if public minting is disabled.
+
+Input:
+
+- Domain name
+- Domain (future) owner
+- Referrer
+
+```solidity
+function mint(
+    string memory _domainName,
+    address _domainHolder,
+    address _referrer
+  ) external payable nonReentrant returns(uint256)
+```
+
+Emitted events:
+- `DomainCreated` event
 
 ## Owner methods
 
-- TODO...
+### `changeDescription`
+
+TLD owner can change metadata description through this function.
+
+Input:
+
+- Description
+
+```solidity
+function changeDescription(string calldata _description) external onlyOwner
+```
+
+### `changeNameMaxLength`
+
+TLD owner can change max length of newly minted domain names. Does not work retroactively.
+
+Input:
+
+- Maximum length
+
+```solidity
+function changeNameMaxLength(uint256 _maxLength) external onlyOwner
+```
+
+### `changePrice`
+
+TLD owner can change domain minting price.
+
+Input:
+
+- Price in wei
+
+```solidity
+function changePrice(uint256 _price) external onlyOwner
+```
+
+Emitted events:
+- `TldPriceChanged` event
+
+### `changeReferralFee`
+
+TLD owner can change the referral fee. The referral fee is in basis points (0 =< fee < 5000 bps).
+
+Input:
+
+- Referral fee in bps
+
+```solidity
+function changeReferralFee(uint256 _referral) external onlyOwner
+```
+
+Emitted events:
+- `ReferralFeeChanged` event
+
+### `toggleBuyingDomains`
+
+TLD owner can start/stop public domain minting.
+
+```solidity
+function toggleBuyingDomains() external onlyOwner
+```
+
+Emitted events:
+- `DomainBuyingToggle` event
 
 ## Factory owner methods
 
-- TODO...
+### `toggleBuyingDomains`
+
+Factory owner can change protocol royalty for minting a domain. Royalty fee is in basis points (0 =< fee < 5000 bps).
+
+Input:
+
+- Royalty fee in bps
+
+```solidity
+function changeRoyalty(uint256 _royalty) external
+```
+
+Emitted events:
+- `TldRoyaltyChanged` event

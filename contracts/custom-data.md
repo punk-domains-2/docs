@@ -12,9 +12,6 @@ struct Domain {
 	uint256 tokenId;
 	address holder;
 	string data; // <-- CUSTOM DATA
-	string url;
-	address pfpAddress;
-	uint256 pfpTokenId;
 }
 ```
 
@@ -30,7 +27,12 @@ This section holds the official standard for structuring the custom data JSON ob
 
 ```json
 {
-  "emails": ["tempe.techie@protonmail.com"], // possible to add multiple emails
+  "image": {
+  	"address": "url-or-nft-address",
+  	"tokenId": 0 // in case of NFT address, tokenID is mandatory, otherwise it is not
+  },
+  "url": "https://punk.domains",
+  "emails": ["user@example.com"], // possible to add multiple emails
   "twitter": ["PunkDomains"], // possible to add multiple twitter handles
   "subdomains": {
     "sandbox": { // sandbox.techie.web3 - in case I want to have a username with different data (like PFP) in the Sandbox metaverse
