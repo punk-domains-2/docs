@@ -27,10 +27,8 @@ This section holds the official standard for structuring the custom data JSON ob
 
 ```json
 {
-  "image": {
-  	"address": "url-or-nft-address",
-  	"tokenId": 0 // in case of NFT address, tokenID is mandatory, otherwise it is not
-  },
+  "imgAddress": "url-or-nft-address", // either an HTTP url (e.g. "http://hey.com/me.jpg") or an NFT address (0xa12B3...)
+  "imgTokenId": 0, // in case of NFT address, tokenID is mandatory, otherwise it is not
   "url": "https://punk.domains",
   "emails": ["user@example.com"], // possible to add multiple emails
   "twitter": ["PunkDomains"], // possible to add multiple twitter handles

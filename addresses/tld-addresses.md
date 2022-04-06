@@ -25,6 +25,7 @@ order: 40
 - .ape: [0x794a8390D94E32b086908D2bA9D66300aA163C62](https://polygonscan.com/address/0x794a8390D94E32b086908D2bA9D66300aA163C62)
 - .poly: [0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f](https://polygonscan.com/address/0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f)
 - .degen: [0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9](https://polygonscan.com/address/0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9)
+- .klima: [0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4](https://polygonscan.com/address/0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4)
 
 ### Arbitrum
 
