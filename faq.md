@@ -124,3 +124,9 @@ Yes.
 ### 21. Will there be a marketplace for minted domain names?
 
 This is in our roadmap, yes.
+
+### 22. A friend has minted a domain using my referral link, but I can't see the referral fee anywhere...
+
+Make sure to **check your address on all chains** where Punk Domains is present (at the time of writing this answer it's Polygon, Gnosis Chain, Optimism, and Arbitrum).
+
+The referral fee is always paid out on the chain where the referred person buys the domain. Also, the referral fee transaction will show up in the **Internal Transactions** section on block explorer.
