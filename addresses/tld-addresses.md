@@ -17,6 +17,7 @@ order: 40
 - .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/address/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
 - .optimism: [0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC](https://optimistic.etherscan.io/address/0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC)
 - .spartan: [0x3490C9817C45A2a394b11A3807f58a8325235aE0](https://optimistic.etherscan.io/address/0x3490C9817C45A2a394b11A3807f58a8325235aE0)
+- .l2: [0x9A7657d1593032C75d70950707870c3cC7ca45DC](https://optimistic.etherscan.io/token/0x9a7657d1593032c75d70950707870c3cc7ca45dc) (this TLD is owned by L2DAO)
 
 ### Polygon PoS Chain
 
@@ -25,7 +26,7 @@ order: 40
 - .ape: [0x794a8390D94E32b086908D2bA9D66300aA163C62](https://polygonscan.com/address/0x794a8390D94E32b086908D2bA9D66300aA163C62)
 - .poly: [0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f](https://polygonscan.com/address/0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f)
 - .degen: [0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9](https://polygonscan.com/address/0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9)
-- .klima: [0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4](https://polygonscan.com/address/0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4)
+- .klima: [0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4](https://polygonscan.com/address/0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4) (this TLD is owned by Gwami Labs)
 
 ### Arbitrum
 
