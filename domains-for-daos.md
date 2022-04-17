@@ -6,7 +6,7 @@ image: ./static/domains-for-daos.png
 
 # Domains for DAOs
 
-On Punk Domains, every top-level domain (like .web3, .spartan, .wagmi) can be owned by a different entity. Which makes it perfect for DAOs.
+On [Punk Domains](https://punk.domains), every top-level domain (like .web3, .spartan, .wagmi) can be owned by a different entity. Which makes it perfect for DAOs.
 
 ### 1. Unity and belonging
 
