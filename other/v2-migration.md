@@ -1,7 +1,6 @@
 ---
-order: 90
-icon: flame
-image: ./static/old-new-domain-image.png
+order: 20
+image: ../static/old-new-domain-image.png
 ---
 
 # Punk Domains Version 2 (migration completed)
