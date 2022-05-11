@@ -22,5 +22,9 @@ links:
   link: https://twitter.com/PunkDomains
   icon: sign-out
   target: blank
+- text: Blog
+  link: https://blog.punk.domains/
+  icon: sign-out
+  target: blank
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
