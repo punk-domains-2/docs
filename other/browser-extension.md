@@ -12,4 +12,4 @@ All browsers that are built on top of Chromium (Chrome, Brave, Edge, Opera etc.)
 
 ### Firefox
 
-Coming soon...
+<a target="_blank" href="https://addons.mozilla.org/en-GB/firefox/addon/punk-domains/">Click here to download</a>.
