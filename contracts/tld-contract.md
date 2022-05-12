@@ -2,11 +2,11 @@
 order: 28
 ---
 
-# TLD template contract
+# TLD contract
 
 TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
 
-**See the TLD contract template here:** [https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkTLD.sol](https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkTLD.sol)
+**See the Standard TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol
 
 ## Data
 

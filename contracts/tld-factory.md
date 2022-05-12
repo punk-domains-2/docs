@@ -6,7 +6,7 @@ order: 30
 
 TLD Factory is owned by Punk Domains governance. This contract is responsible for issuing new TLDs and keeping a list of all currently existing TLDs and their respective addresses.
 
-**Contract code:** [https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkTLDFactory.sol](https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkTLDFactory.sol)
+**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol
 
 ## Read methods
 
@@ -21,6 +21,22 @@ function getTldsArray() public view returns(string[] memory)
 Output:
 
 - An array of TLD names
+
+### `tldNamesAddresses`
+
+Returns an array of all TLDs that were created with this factory contract.
+
+```solidity
+function tldNamesAddresses(string memory tldName) public view returns(address)
+```
+
+Input:
+
+- The TLD name (must start with a dot)
+
+Output:
+
+- The TLD contract address
 
 ### `royalty`
 
