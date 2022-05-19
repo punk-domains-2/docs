@@ -1,6 +1,6 @@
 ---
 order: 65
-icon: link
+icon: workflow
 image: ./static/modular-design-cover.png
 ---
 
