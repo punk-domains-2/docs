@@ -24,6 +24,7 @@ Here you can see the Punk Domains roadmap. Note that this is a live document tha
 ### 2023
 
 - DeFi integrations on Web3 Social frontends
+- zkSync 2.0 deployment
 - Renewable domains
 - Web3 pluggable commenting system (a web3 version of "Disqus")
 - [REDACTED]
