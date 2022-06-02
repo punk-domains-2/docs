@@ -32,16 +32,8 @@ This section holds the official standard for structuring the custom data JSON ob
   "imgChainId": 137, // the chain where NFT exists on
   
   "url": "https://punk.domains",
-  "emails": ["user@example.com"], // possible to add multiple emails
-  "twitter": ["PunkDomains"], // possible to add multiple twitter handles
-  
-  "subdomains": {
-    "sandbox": { // sandbox.techie.web3 - in case I want to have a username with different data (like PFP) in the Sandbox metaverse
-      "address": "0x123...",
-      "pfpTokenAddress": "0x098...",
-      "pfpTokenId": 22 // PFP ownership needs to be verified on front-end
-    }
-  },
+  "email": "user@example.com",
+  "twitter": "PunkDomains",
   
   "chainAddresses": { // if user wants to define different addresses on different chains (only one address per chain)
     "10": "0xa5b6...",
