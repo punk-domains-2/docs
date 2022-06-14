@@ -5,8 +5,8 @@ favicon: static/favicon.ico
 branding:
   title: Punk Domains
   label: Docs
-  logo: static/logo512.png
-  logoDark: static/logo-white512.png
+  logo: static/pictogram_black.png
+  logoDark: static/pictogram_white.png
 meta:
   title: " | Punk Domains Docs"
 links:
