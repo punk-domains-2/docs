@@ -1,7 +1,7 @@
 input: .
 output: .retype
 url: docs.punk.domains
-favicon: static/favicon.png
+favicon: static/favicon.ico
 branding:
   title: Punk Domains
   label: Docs
