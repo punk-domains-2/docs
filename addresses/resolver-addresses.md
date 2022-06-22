@@ -11,7 +11,7 @@ Resolver is an upgradable contract, so its address will never change.
 ### Mainnets (proxy)
 
 - Gnosis Chain: [0x7Df67B2ef4eEDf49Fc53Bb6E94e90e9546FC6c6B](https://blockscout.com/xdai/mainnet/address/0x7Df67B2ef4eEDf49Fc53Bb6E94e90e9546FC6c6B)
-- Optimism: [](https://optimistic.etherscan.io/address/)
+- Optimism: [0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06](https://optimistic.etherscan.io/address/0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06)
 - Polygon PoS Chain: [0x07884566cdED43eDaec7813C1523624202b060D3](https://polygonscan.com/address/0x07884566cdED43eDaec7813C1523624202b060D3)
 - Arbitrum: [](https://arbiscan.io/address/)
 
@@ -27,7 +27,7 @@ Resolver is an upgradable contract, so its address will never change.
 ### Mainnets
 
 - Gnosis Chain: [0x7a2A533794d2c1C19EA10D9B0c2acA419520B94b](https://blockscout.com/xdai/mainnet/address/0x7a2A533794d2c1C19EA10D9B0c2acA419520B94b)
-- Optimism: [](https://optimistic.etherscan.io/address/)
+- Optimism: [0xAF73b136dD1902E36E33e968be93E30e17A5B01E](https://optimistic.etherscan.io/address/0xAF73b136dD1902E36E33e968be93E30e17A5B01E)
 - Polygon PoS Chain: [0x4698d2B5B20100BeE1390C494E20659a6C976818](https://polygonscan.com/address/0x4698d2B5B20100BeE1390C494E20659a6C976818)
 - Arbitrum: [](https://arbiscan.io/address/)
 
