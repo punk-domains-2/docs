@@ -1,7 +1,7 @@
 ---
 order: 60
 icon: question
-image: ./static/faq.jpg
+image: ./static/faq.png
 ---
 
 # FAQ
