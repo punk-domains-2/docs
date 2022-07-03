@@ -14,6 +14,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - Optimism: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://optimistic.etherscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Polygon PoS Chain: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://polygonscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Arbitrum: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://arbiscan.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
+- Ethereum: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://etherscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 

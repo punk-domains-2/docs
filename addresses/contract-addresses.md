@@ -30,6 +30,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Optimism: [](https://optimistic.etherscan.io/address/)
 - Polygon PoS Chain: [](https://polygonscan.com/address/)
 - Arbitrum: [](https://arbiscan.io/address/)
+- Ethereum: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://etherscan.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 
