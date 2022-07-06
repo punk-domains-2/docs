@@ -31,6 +31,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Polygon PoS Chain: [](https://polygonscan.com/address/)
 - Arbitrum: [](https://arbiscan.io/address/)
 - Ethereum: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://etherscan.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- BSC: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://bscscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 
