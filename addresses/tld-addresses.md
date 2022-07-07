@@ -34,3 +34,8 @@ order: 40
 - .arbitrum: [0x337EB5061943ECd247649d58D35Dbab0b40D67E0](https://arbiscan.io/token/0x337EB5061943ECd247649d58D35Dbab0b40D67E0)
 - .arbi: [0xe97456E0fB121F65422F43ccbd4A07a0e269B534](https://arbiscan.io/token/0xe97456E0fB121F65422F43ccbd4A07a0e269B534)
 - .smol: [0xE0d972817e94c5FF9BDc49a63d8927A0bA833E4f](https://arbiscan.io/token/0xE0d972817e94c5FF9BDc49a63d8927A0bA833E4f) (this TLD is owned by Astrolabs)
+
+### BNB Smart Chain
+
+- .safu: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://bscscan.com/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+- .huwa: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://bscscan.com/address/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096) (this TLD is owned by HUWA DAO)
