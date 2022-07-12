@@ -17,7 +17,7 @@ order: 40
 - .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/address/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
 - .optimism: [0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC](https://optimistic.etherscan.io/address/0xBca24d86e4Ad1e011278FaEFc4fF191a731411EC)
 - .spartan: [0x3490C9817C45A2a394b11A3807f58a8325235aE0](https://optimistic.etherscan.io/address/0x3490C9817C45A2a394b11A3807f58a8325235aE0)
-- .l2: [0x9A7657d1593032C75d70950707870c3cC7ca45DC](https://optimistic.etherscan.io/token/0x9a7657d1593032c75d70950707870c3cc7ca45dc) (this TLD is owned by L2DAO)
+- .l2: [0x9A7657d1593032C75d70950707870c3cC7ca45DC](https://optimistic.etherscan.io/token/0x9a7657d1593032c75d70950707870c3cc7ca45dc) (this TLD is owned by Layer2DAO)
 - .op: [0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F](https://optimistic.etherscan.io/address/0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F)
 
 ### Polygon PoS Chain
