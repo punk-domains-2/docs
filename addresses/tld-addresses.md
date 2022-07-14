@@ -40,3 +40,7 @@ order: 40
 
 - .safu: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://bscscan.com/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
 - .huwa: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://bscscan.com/address/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096) (this TLD is owned by HUWA DAO)
+
+### Ethereum
+
+- .wildbunch: [0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb](https://etherscan.io/address/0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb) (this TLD is owned by The Wild Bunch)
