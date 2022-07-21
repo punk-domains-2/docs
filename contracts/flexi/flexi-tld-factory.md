@@ -2,25 +2,17 @@
 order: 30
 ---
 
-# TLD factory contract
+# Flexi TLD factory contract
 
-TLD Factory is owned by Punk Domains governance. This contract is responsible for issuing new TLDs and keeping a list of all currently existing TLDs and their respective addresses.
+Flexi TLD Factory is a contract responsible for issuing new TLDs and keeping a list of all TLDs created through it, and their respective addresses.
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol
+**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLDFactory.sol
 
-## Read methods
+> There are multiple factory contracts, Flexi is one of them. Read more about the Punk Domains architecture in this article: [Modular Architecture](/modular-architecture.md).
 
-### `getTldsArray`
+## Public state variables
 
-Returns an array of all TLDs that were created with this factory contract.
-
-```solidity
-function getTldsArray() public view returns(string[] memory)
-```
-
-Output:
-
-- An array of TLD names
+Note that public state variables can also be used as read methods, that's why their code is listed as a method.
 
 ### `tldNamesAddresses`
 
@@ -37,6 +29,31 @@ Input:
 Output:
 
 - The TLD contract address
+
+### `forbiddenTlds`
+
+Returns the address of the ForbiddenTlds contract.
+
+```solidity
+function forbiddenTlds() public view returns(address)
+```
+
+Output:
+
+- The address of the ForbiddenTlds contract
+
+### `metadataAddress`*
+
+Returns the address of the default FlexiPunkMetadata contract for the TLD template.
+
+```solidity
+function metadataAddress() public view returns(address)
+```
+
+Output:
+
+- The address of the FlexiPunkMetadata contract
+
 
 ### `royalty`
 
@@ -90,15 +107,19 @@ Output:
 
 - The number of characters that a TLD name can have at maximum
 
-### `projectName`
+## Read methods
 
-This is useful for default domain name NFT images which show the project name at the bottom:
+### `getTldsArray`
 
-![](../static/domain-image-example.png)
+Returns an array of all TLDs that were created with this factory contract.
 
 ```solidity
-function projectName() public view returns(string)
+function getTldsArray() public view returns(string[] memory)
 ```
+
+Output:
+
+- An array of TLD names
 
 ## Write method
 
@@ -225,3 +246,7 @@ Factory owner can either start or stop buying TLDs.
 ```solidity
 function toggleBuyingTlds() public onlyOwner
 ```
+
+----
+
+*Methods marked with a star are specific for this contract. They are not obligatory for other contracts of that type.

@@ -2,7 +2,7 @@
 order: 28
 ---
 
-# TLD contract
+# Standard TLD contract
 
 TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
 
