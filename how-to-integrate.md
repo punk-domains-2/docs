@@ -14,19 +14,25 @@ Each network has their own copy of the Resolver contract. Find addresses here (p
 
 Let's see some common usecases.
 
-### Show user's domain name instead of their address
+### A) Show user's domain name instead of their address
 
-When user connects their wallet, a web3 app usually shows their address in the navigation bar.
+When user connects their wallet, a web3 app usually shows their address in the navigation bar:
 
-You can check if user owns a punk domain and show that instead. To do that, you have a few different options in the Resolver contract:
+![](https://raw.githubusercontent.com/tempe-techie/images/main/wallet-no-domain.png)
 
-A) `getDefaultDomain(address, tld)`: Get user's default domains for a specific top-level domain (for example, `.smol`)
-B) `getDefaultDomains(address)`: Get user's default domains across all TLDs
+You can check if user owns a punk domain and show that instead: 
+
+![](https://raw.githubusercontent.com/tempe-techie/images/main/wallet-with-domain.png)
+
+To do that, you have a few different options in the Resolver contract:
+
+A) `getDefaultDomain(address, tld)`: Get user's default domain for a specific top-level domain (for example, `.smol`)
+B) `getDefaultDomains(address)`: Get user's default domains across all TLDs (multiple domains)
 C) `getFirstDefaultDomain(address)`: Get the first available user's domain, no matter of which TLD it is
 
 With options A and C you always receive at most 1 domain name back (or none). With option B, you may receive multiple user's domains, so you can then ask the user to choose the preferred one.
 
-### Fetch domain metadata
+### B) Fetch domain metadata
 
 To get domain's metadata, call this function in the Resolver contract:
 
@@ -36,7 +42,7 @@ Note that most punk domains have metadata stored onchain, which means it's base6
 
 See an [example here](https://github.com/punk-domains/punk-contracts/blob/f489dbd785005a2ea590d14a1c6b23e1ab6bf98e/test/resolver/proxy.test.js#L456).
 
-### Show domain image
+### C) Show domain image
 
 Every domain has a default image set in its metadata. Most domains have a default image stored onchain, which means that it's in the SVG format. 
 
@@ -50,7 +56,7 @@ What to do with it? The same as you do with http image links: add it into the `s
 
 Easy peasy. 😀
 
-### Show user's custom image
+### D) Show user's custom image
 
 Domain holder's can set up a custom image in the domain data (not metadata, but separate [custom data](/contracts/custom-data.md)!)
 
