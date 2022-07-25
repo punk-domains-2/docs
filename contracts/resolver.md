@@ -8,6 +8,8 @@ Each TLD has in-built resolver (`getDomainHolder`) and reverse-resolver (`defaul
 
 The benefit is that you only need to store one contract address (the PunkResolver), instead of all TLD addresses.
 
+**Resolver addresses (proxy):** https://docs.punk.domains/addresses/resolver-addresses/
+
 **Contract code:** https://github.com/punk-domains/punk-contracts/tree/main/contracts/resolver
 
 ## State variables
