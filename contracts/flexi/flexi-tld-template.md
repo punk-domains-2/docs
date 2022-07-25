@@ -4,6 +4,8 @@ order: 28
 
 # Flexi TLD contract
 
+> WIP (Work In Progress): This file has not been completely updated yet.
+
 TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
 
 **See the Standard TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol

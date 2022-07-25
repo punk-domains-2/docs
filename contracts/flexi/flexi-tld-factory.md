@@ -4,6 +4,8 @@ order: 30
 
 # Flexi TLD factory contract
 
+> WIP (Work In Progress): This file has not been completely updated yet.
+
 Flexi TLD Factory is a contract responsible for issuing new TLDs and keeping a list of all TLDs created through it, and their respective addresses.
 
 **Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLDFactory.sol
