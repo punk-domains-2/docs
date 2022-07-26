@@ -80,6 +80,16 @@ If it's an http/ipfs URL, you don't need to do anything else - this URL is the c
 
 In case it's an NFT address (meaning it starts with `0x`), you'll need to do some additional work. First check for `imgTokenId` and `imgChainId` in the custom data. Then call the `tokenURI` function of that PFP NFT contract and parse its metadata to get the image link. In addition you can also check if the user actually owns this PFP NFT (`ownerOf(tokenId)` function in the PFP NFT contract).
 
+### E) Search by domain
+
+Let's say you want to allow users to search by domain. Meaning that a user enters a domain name, and then your web3 app needs to find out what's the address behind that domain (the owner address).
+
+In this case you need to call this function in the Resolver contract:
+
+- `getDomainHolder(domainName, tld)`
+
+The response is the address that owns the submitted domain.
+
 ## Support
 
 If you have a question, don't hesitate to ask us [via Discord](https://discord.gg/invite/8dSrwrAQeu).
