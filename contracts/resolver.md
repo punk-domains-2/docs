@@ -12,6 +12,8 @@ The benefit is that you only need to store one contract address (the PunkResolve
 
 **Contract code:** https://github.com/punk-domains/punk-contracts/tree/main/contracts/resolver
 
+**ABI:** https://github.com/punk-domains/punk-abi/blob/main/PunkResolverAbi.json 
+
 ## State variables
 
 ### `isTldDeprecated` mapping

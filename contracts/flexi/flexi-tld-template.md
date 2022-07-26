@@ -10,6 +10,8 @@ TLD contracts are generated dynamically by a Factory contract based on a pre-def
 
 **See the Standard TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol
 
+**ABI:** https://github.com/punk-domains/punk-abi/blob/main/FlexiTldAbi.json 
+
 ## Data
 
 ### Domain struct
