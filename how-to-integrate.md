@@ -1,7 +1,7 @@
 ---
 order: 79
 icon: file-symlink-file
-image: ./static/domains-for-daos.png
+image: ./static/how-to-integrate.jpg
 ---
 
 # How to integrate Punk Domains
