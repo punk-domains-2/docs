@@ -23,6 +23,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Optimism Kovan: [0xa1303d259B87f044404536638E2784DEe897B402](https://kovan-optimistic.etherscan.io/address/0xa1303d259B87f044404536638E2784DEe897B402)
 - Mumbai (Polygon): [0xC17E9347Ce26D7630A98eC4158Bd7200E54bf4Cd](https://mumbai.polygonscan.com/address/0xC17E9347Ce26D7630A98eC4158Bd7200E54bf4Cd)
 - Arbitrum testnet: [0xe2b9bC4c1d65B5F5583144d9d5c5F0683158C372](https://testnet.arbiscan.io/address/0xe2b9bC4c1d65B5F5583144d9d5c5F0683158C372)
+- Aurora testnet: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://testnet.aurorascan.dev/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 
 ## ProxyAdmin
 
@@ -41,3 +42,4 @@ Resolver is an upgradable contract, so its address will never change.
 - Optimism Kovan: [0xF2d0dad8945ec1E241aC8D549E9bd0A186756cDb](https://kovan-optimistic.etherscan.io/address/0xF2d0dad8945ec1E241aC8D549E9bd0A186756cDb)
 - Mumbai (Polygon): [](https://mumbai.polygonscan.com/address/)
 - Arbitrum testnet: [0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D](https://testnet.arbiscan.io/address/0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D)
+- Aurora testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://testnet.aurorascan.dev/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)

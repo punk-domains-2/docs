@@ -24,3 +24,4 @@ Each chain has its own PunkForbiddenTlds contract.
 - Mumbai (Polygon): [0xF81DfeD588Af7be10ba095fB9E31CE3333B8618c](https://mumbai.polygonscan.com/address/0xf81dfed588af7be10ba095fb9e31ce3333b8618c)
 - Ropsten: [0xA1D116F6c474Af07910e48851B22ea9ABa476569](https://ropsten.etherscan.io/address/0xa1d116f6c474af07910e48851b22ea9aba476569)
 - Arbitrum testnet: [0xf6A44f61030115B5dA382b198B711130D98390d9](https://testnet.arbiscan.io/address/0xf6a44f61030115b5da382b198b711130d98390d9)
+- Aurora testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.aurorascan.dev/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
