@@ -44,6 +44,10 @@ order: 40
 
 - .wildbunch: [0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb](https://etherscan.io/token/0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb) (this TLD is owned by The Wild Bunch)
 
+### Songbird
+
+- .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+
 ### Deprecated
 
 - .web3: [0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B](https://polygonscan.com/token/0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B) ([Claim refund here](https://punk.domains/#/deprecate/web3))

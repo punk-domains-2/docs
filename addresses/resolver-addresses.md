@@ -16,6 +16,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum: [0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA](https://arbiscan.io/address/0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA)
 - Ethereum: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://etherscan.io/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
 - BSC: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://bscscan.com/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
+- Songbird: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://songbird-explorer.flare.network/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
 
 ### Testnets (proxy)
 
@@ -35,6 +36,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum: [0x6e29C6A5D46f37f1D25F148F26296689A9E03F06](https://arbiscan.io/address/0x6e29C6A5D46f37f1D25F148F26296689A9E03F06)
 - Ethereum: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://etherscan.io/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - BSC: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://bscscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
+- Songbird: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://songbird-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 
 ### Testnets
 
