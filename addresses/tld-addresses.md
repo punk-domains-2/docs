@@ -6,6 +6,10 @@ order: 40
 
 > Note that only TLDs that have buying domains enabled are visible on the Punk Domains front page.
 
+### Songbird
+
+- .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+
 ### Gnosis Chain
 
 - .gnosis: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://blockscout.com/xdai/mainnet/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
@@ -43,10 +47,6 @@ order: 40
 ### Ethereum
 
 - .wildbunch: [0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb](https://etherscan.io/token/0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb) (this TLD is owned by The Wild Bunch)
-
-### Songbird
-
-- .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
 
 ### Deprecated
 
