@@ -38,6 +38,7 @@ order: 40
 - .smol: [0xE0d972817e94c5FF9BDc49a63d8927A0bA833E4f](https://arbiscan.io/token/0xE0d972817e94c5FF9BDc49a63d8927A0bA833E4f) (this TLD is owned by Astrolabs)
 - .punkangel: [0xcC66213645474a7B61BAf95330D01e50789eaF4b](https://arbiscan.io/token/0xcC66213645474a7B61BAf95330D01e50789eaF4b)
 - .ppl: [0xbC9d19e5f97a572f428F7292DBf3dc182Cc05C82](https://arbiscan.io/token/0xbC9d19e5f97a572f428F7292DBf3dc182Cc05C82) (this TLD is owned by Joie Degarlic)
+- .misie: [0x526Ff108F5d422d0e1d6650E2Bc015BBE1fdb058](https://arbiscan.io/token/0x526Ff108F5d422d0e1d6650E2Bc015BBE1fdb058) (this TLD is owned by Johnnie Skywalker)
 
 ### BNB Smart Chain
 
