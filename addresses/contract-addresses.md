@@ -24,7 +24,8 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Sokol (Gnosis Chain): 
 - Optimism Kovan: [0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281](https://kovan-optimistic.etherscan.io/address/0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281)
 - Mumbai (Polygon): [0xD6e994d98bD269a61aF8FB3d0cdCE2304440A057](https://mumbai.polygonscan.com/address/0xD6e994d98bD269a61aF8FB3d0cdCE2304440A057)
-- Arbitrum testnet: [0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8](https://testnet.arbiscan.io/address/0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8)
+- Arbitrum Goerli: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://goerli.arbiscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Arbitrum Rinkeby: [0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8](https://testnet.arbiscan.io/address/0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8)
 - Aurora testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://testnet.aurorascan.dev/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ## Standard
