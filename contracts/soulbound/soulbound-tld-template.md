@@ -2,15 +2,13 @@
 order: 28
 ---
 
-# Flexi TLD contract
+# Soulbound TLD contract
 
-TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
+The Soulbound TLD contract is almost identical to the Flexi TLD contract, except that it does not allow domain transfers beyong minting and burning. Soulbound TLD is another name for a non-transferable TLD.
 
-As the name implies, Flexi TLD contract allows for more flexibility compared to the Standard TLD contract. The major difference is that domain/NFT metadata is separated into its own contract, which makes it easier to customize both metadata and domain images.
+**See the Soulbound TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLD.sol
 
-**See the Flexi TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLD.sol
-
-**ABI:** https://github.com/punk-domains/punk-abi/blob/main/FlexiTldAbi.json 
+**ABI (the same as for the Flexi TLD):** https://github.com/punk-domains/punk-abi/blob/main/FlexiTldAbi.json 
 
 ## Data
 
@@ -34,7 +32,7 @@ struct Domain {
 
 Read more about custom data [here](custom-data.md).
 
-> Note that in Flexi contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
+> Note that in Flexi/Soulbound contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
 
 ## Read methods
 
@@ -140,7 +138,7 @@ Output:
 
 ### `idCounter`*
 
-Counter for settings token IDs. In all Flexi TLD contracts, token IDs must start with 1, not 0 (mainly to enable the burn feature to properly work).
+Counter for settings token IDs. In all Flexi/Soulbound TLD contracts, token IDs must start with 1, not 0 (mainly to enable the burn feature to properly work).
 
 ```solidity
 function idCounter() public view returns(uint256)
@@ -510,4 +508,4 @@ function changeRoyaltyFeeUpdater(address _newUpdater) external
 
 ----
 
-*Methods marked with a star are specific for the Flexi contract. They are not obligatory for other contracts of that type.
+*Methods marked with a star are specific for the Flexi/Soulbound contract. They are not obligatory for other contracts of that type.

@@ -2,13 +2,13 @@
 order: 30
 ---
 
-# Flexi TLD factory contract
+# Soulbound TLD factory contract
 
-Flexi TLD Factory is a contract responsible for issuing new TLDs and keeping a list of all TLDs created through it, and their respective addresses.
+Soulbound TLD Factory is identical to the Flexi TLD Factory, except the embedded TLD template is slighly different (it does not allow token transfers).
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLDFactory.sol
+**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLDFactory.sol
 
-> There are multiple factory contracts, Flexi is one of them. Read more about the Punk Domains architecture in this article: [Modular Architecture](/modular-architecture.md).
+> There are multiple factory contracts, Soulbound is one of them. Read more about the Punk Domains architecture in this article: [Modular Architecture](/modular-architecture.md).
 
 ## Public state variables
 
@@ -249,4 +249,4 @@ function toggleBuyingTlds() public onlyOwner
 
 ----
 
-*Methods marked with a star are specific for the Flexi contract. They are not obligatory for other contracts of that type.
+*Methods marked with a star are specific for the Flexi/Soulbound contract. They are not obligatory for other contracts of that type.

@@ -62,7 +62,7 @@ For every newly minted (paid) domain name a royalty payment is taken and sent to
 
 In case a domain is created for free by TLD owner, or if royalty is set to 0, there's no royalty to be paid.
 
-Only Punk Domains governance can change the royalty amount. Max royalty percentage is 50%.
+Only Punk Domains governance can change the royalty amount.
 
 ```solidity
 function royalty() public view returns(uint256)
@@ -70,7 +70,22 @@ function royalty() public view returns(uint256)
 
 Output:
 
-- Domain royalty in wei
+- Domain royalty fee in bips
+
+### `referral`
+
+A TLD can decide to enable referral fees for each domain mint.
+
+By default the referral fee is set to 1000 bips (10%). If the owner does not want to allow referral fees, they need to set the referral fee to 0.
+
+```solidity
+function royalty() public view returns(uint256)
+```
+
+Output:
+
+- referral fee in bips
+
 
 ### `nameMaxLength`
 
@@ -195,7 +210,7 @@ Output:
 
 ### `tokenURI`
 
-Returns the domain holder's default NFT image (each domain is an ERC-721 NFT).
+This function calls the Metadata contract and gets back domain/NFT metadata (each domain is an ERC-721 NFT).
 
 Input:
 
@@ -207,7 +222,7 @@ function tokenURI(uint256) public view override returns (string memory)
 
 Output:
 
-- Domain holder's selected URL
+- Domain metadata as string (either base64-encoded or an URL)
 
 ## Write methods
 
@@ -332,7 +347,7 @@ Emitted events:
 
 ## Factory owner methods
 
-### `toggleBuyingDomains`
+### `changeRoyalty`
 
 Factory owner can change protocol royalty for minting a domain. Royalty fee is in basis points (0 =< fee < 5000 bps).
 
