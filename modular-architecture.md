@@ -16,7 +16,7 @@ Let's take a look at the graphical representation of the protocol and then dive 
 
 We'll start with the main component of the Punk Domains architecture: a TLD factory.
 
-A TLD factory is a smart contract through which you can create new top-level domains (or TLDs, such as .web3, .ape, op, .etc). Each TLD is a separate smart contract, which is only possible because factory contracts have this "magical" ability to **create new contracts on-chain**. 
+A TLD factory is a smart contract through which you can create new top-level domains (or TLDs, such as .smol, .ape, .op, .etc). Each TLD is a separate smart contract, which is only possible because factory contracts have this "magical" ability to **create new contracts on-chain**. 
 
 TLD contracts do **not** need to be created and deployed manually by any person. A new TLD contract is created dynamically on-chain, when the appropriate method in the factory contract is called (`createTld` method or `ownerCreateTld` method).
 
@@ -28,7 +28,12 @@ For example, one TLD template can limit TLDs to the same metadata image backgrou
 
 #### How many different types of TLD factories there are?
 
-Currently we have two factories (Standard and Flexi), but we expect many more in the future. There's **no limit** on how many factories can be used in the Punk Domains protocol.
+- Standard TLD Factory (the first and most basic TLD template)
+- Flexi TLD Factory (TLDs with custom metadata and a minter role)
+- Soulbound TLD Factory (similar to Flexi, but with non-transferable domains)
+- Renewable TLD Factory (in the works)
+
+We expect many more in the future. There's **no limit** on how many factories can be used in the Punk Domains protocol.
 
 Even though existing factories right now are owned by the Punk Domains governance, they can be owned by different entities in the future. The protocol allows that and it works perfectly fine.
 
