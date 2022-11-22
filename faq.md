@@ -19,7 +19,7 @@ In the blockchain world we have our own TLDs, the most well-known is `.eth` by E
 
 Punk Domains has introduced many new TLDs to the web3 world, some of them are:
 
-- `.web3`
+- `.op`
 - `.gnosis`
 - `.wagmi`
 - `.ape`
@@ -30,7 +30,7 @@ Punk Domains has introduced many new TLDs to the web3 world, some of them are:
 
 Domain name is the "middle" part of a domain (between the top-level domain and the subdomain parts).
 
-For example, if you have a domain called `techie.web3`, the domain name is `techie` (and `.web3` is a top-level domain or TLD).
+For example, if you have a domain called `techie.wagmi`, the domain name is `techie` (and `.wagmi` is a top-level domain or TLD).
 
 ### 3. How can I use a domain? Will it replace my public wallet address? 
 
@@ -50,7 +50,7 @@ In the mean time, you can use domains to send tokens through the Send Tokens pag
 
 ### 5. How is this different to ENS? 
 
-Punk Domains is an alternative to ENS. But what makes it different is a) support for multiple crypto TLDs (like .web3, .optimism, .ape, etc.) and b) being deployed on four different blockchains (Polygon, Arbitrum, Optimism, Gnosis Chain).
+Punk Domains is an alternative to ENS. But what makes it different is a) support for multiple crypto TLDs (like .wagmi, .optimism, .ape, etc.) and b) being deployed on four different blockchains (Polygon, Arbitrum, Optimism, Gnosis Chain).
 
 Because Punk Domains is present on L2s and sidechains, it makes minting domains, and doing other actions such as updating data and transfering domains, much cheaper than doing the same actions with ENS on L1.
 

@@ -27,7 +27,7 @@ struct Domain {
 }
 ```
 
-- `name`: Domain name that goes before the TLD name. For example: `techie` in `techie.web3`.
+- `name`: Domain name that goes before the TLD name. For example: `techie` in `techie.wagmi`.
 - `tokenId`: Each domain is an NFT, which means it has a unique token ID. ID numbers increment for every newly minted domain starting with `0`.
 - `holder`: The address that owns the domain. Domain also resolves to this address.
 - `data` (optional): Domain can also hold custom data in a stringified JSON object, for example: `{"url": "https://my.homepage", "image": {"address": "0x123...orUrl", "tokenId": 22}, "description": "Some text", "twitter": "@techie1239", "friends": ["0x123..."]}`.

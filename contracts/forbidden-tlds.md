@@ -20,7 +20,7 @@ function isTldForbidden(string memory _name) public view returns (bool)
 
 Input:
 
-- TLD name (for example: `.web3`)
+- TLD name (for example: `.wagmi`)
 
 Output:
 

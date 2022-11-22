@@ -139,7 +139,7 @@ function createTld(
 
 Inputs:
 
-- `_name`: A TLD name, for example `.web3`. Then name must contain only one dot which must be at the beginning.
+- `_name`: A TLD name, for example `.wagmi`. Then name must contain only one dot which must be at the beginning.
 - `_symbol`: The symbol is usually TLD name in uppercase letters. Symbol is only needed because the ERC-721 standard requires it, otherwise it's irrelevant.
 - `_tldOwner`: The owner of the newly created TLD. Can be a different entity than the `msg.sender`. TLD owner will receive payments for all newly created domains under this TLD.
 - `_domainPrice`: Price for creating new domains under this TLD. TLD owner can change this at any time in the TLD contract.
@@ -229,7 +229,7 @@ function ownerCreateTld(
 
 Inputs:
 
-- `_name`: A TLD name, for example `.web3`. Then name must contain only one dot which must be at the beginning.
+- `_name`: A TLD name, for example `.wagmi`. Then name must contain only one dot which must be at the beginning.
 - `_symbol`: The symbol is usually TLD name in uppercase letters. Symbol is only needed because the ERC-721 standard requires it, otherwise it's irrelevant.
 - `_tldOwner`: The owner of the newly created TLD. Can be a different entity than the `msg.sender`. TLD owner will receive payments for all newly created domains under this TLD.
 - `_domainPrice`: Price for creating new domains under this TLD. TLD owner can change this at any time in the TLD contract.

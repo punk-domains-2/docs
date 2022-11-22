@@ -6,7 +6,7 @@ image: ./static/domains-for-daos.png
 
 # Domains for DAOs
 
-Every top-level domain (like .web3, .spartan, .klima) within the [Punk Domains](https://punk.domains) protocol can be owned by a different entity. Which makes it perfect for DAOs and communities.
+Every top-level domain (like .smol, .spartan, .klima) within the [Punk Domains](https://punk.domains) protocol can be owned by a different entity. Which makes it perfect for DAOs and communities.
 
 ### 1. Unity and belonging
 

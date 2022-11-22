@@ -11,17 +11,17 @@ Punk Domains allows you to register a domain name attached to your account addre
 
 Well, your crypto address is hard to remember. It starts with `0x`, but then continues with 40 random characters (digits from `0` to `9` and letters from `a` to `f`).
 
-If you want someone to send you tokens, sure you could send them your address and they could copy-paste it into their wallet. But wouldn't it be great if they could just enter a domain name, like `techie.web3`, instead of the whole address?
+If you want someone to send you tokens, sure you could send them your address and they could copy-paste it into their wallet. But wouldn't it be great if they could just enter a domain name, like `techie.wagmi`, instead of the whole address?
 
 This is what they can do on punk.domains (on the Send Tokens page).
 
-Another usecase is to have a domain name as your username in various web3 dApps, games and upcoming social networks. Instead of your username being `0xb29…45D`, it could be simply `techie.web3`.
+Another usecase is to have a domain name as your username in various web3 dApps, games and upcoming social networks. Instead of your username being `0xb29…45D`, it could be simply `techie.wagmi`.
 
 An additional feature that Punk Domains provide is a browser extension that takes you to a designated URL address if you type a domain name into browser URL bar.
 
 ### But isn't all that what ENS is doing already?
 
-Yes, but they only do it on Ethereum L1 and (for now) only with `.eth`. Punk Domains allows many different top-level domains (TLDs), such as `.web3`, `.gnosis`, `.ape`, `.opti` etc. And it runs on multiple chains.
+Yes, but they only do it on Ethereum L1 and (for now) only with `.eth`. Punk Domains allows many different top-level domains (TLDs), such as `.wagmi`, `.gnosis`, `.ape`, `.op` etc. And it runs on multiple chains.
 
 Punk Domains enables anyone to create a TLD, operate it and earn revenue from it. For example, a DeFi protocol like Agave could create a TLD named `.agave`, and the revenue from each domain purchase would go to Agave treasury.
 

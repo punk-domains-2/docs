@@ -23,7 +23,7 @@ Because the custom data field is unstructured, the Punk Domains community has to
 
 This section holds the official standard for structuring the custom data JSON object. Note that the standard may change over time, but we'll try to make sure that changes are always backward compatible.
 
-**Custom data JSON structure** (example for `techie.web3`):
+**Custom data JSON structure** (example for `techie.wagmi`):
 
 ```json
 {
