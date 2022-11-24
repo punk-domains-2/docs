@@ -10,6 +10,10 @@ order: 40
 
 - .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
 
+### Fantom
+
+- .fantom: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://ftmscan.com/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+
 ### Gnosis Chain
 
 - .gnosis: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://blockscout.com/xdai/mainnet/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)

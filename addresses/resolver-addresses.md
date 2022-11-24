@@ -17,6 +17,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum: [0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA](https://arbiscan.io/address/0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA)
 - Ethereum: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://etherscan.io/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
 - BSC: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://bscscan.com/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
+- Fantom: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://ftmscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 
 ### Testnets (proxy)
 
@@ -26,6 +27,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum Goerli: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://goerli.arbiscan.io/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 - Arbitrum Rinkeby: [0xe2b9bC4c1d65B5F5583144d9d5c5F0683158C372](https://testnet.arbiscan.io/address/0xe2b9bC4c1d65B5F5583144d9d5c5F0683158C372)
 - Aurora testnet: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://testnet.aurorascan.dev/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
+- Fantom testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://testnet.ftmscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 
 ## ProxyAdmin
 
@@ -38,6 +40,7 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum: [0x6e29C6A5D46f37f1D25F148F26296689A9E03F06](https://arbiscan.io/address/0x6e29C6A5D46f37f1D25F148F26296689A9E03F06)
 - Ethereum: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://etherscan.io/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - BSC: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://bscscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
+- Fantom: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://ftmscan.com/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 
 ### Testnets
 
@@ -47,3 +50,4 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum Goerli: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://goerli.arbiscan.io/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 - Arbitrum Rinkeby: [0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D](https://testnet.arbiscan.io/address/0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D)
 - Aurora testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://testnet.aurorascan.dev/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
+- Fantom testnet: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://testnet.ftmscan.com/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)

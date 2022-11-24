@@ -17,6 +17,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Arbitrum: [0xc20cBd7E73ed58531c18F7bC61524Ff8d89c78a0](https://arbiscan.io/address/0xc20cBd7E73ed58531c18F7bC61524Ff8d89c78a0)
 - Ethereum: [0xA33dCbE04278706248891931537Dd56B795c3663](https://etherscan.io/address/0xA33dCbE04278706248891931537Dd56B795c3663)
 - BSC: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://bscscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Fantom: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://ftmscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 
@@ -27,6 +28,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Arbitrum Goerli: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://goerli.arbiscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Arbitrum Rinkeby: [0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8](https://testnet.arbiscan.io/address/0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8)
 - Aurora testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://testnet.aurorascan.dev/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Fantom testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://testnet.ftmscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ## Standard
 

@@ -17,6 +17,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - Arbitrum: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://arbiscan.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Ethereum: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://etherscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - BSC: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://bscscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Fantom: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://ftmscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 
 ### Testnets
 
@@ -28,3 +29,4 @@ Each chain has its own PunkForbiddenTlds contract.
 - Arbitrum Goerli: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://goerli.arbiscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Arbitrum Rinkeby: [0xf6A44f61030115B5dA382b198B711130D98390d9](https://testnet.arbiscan.io/address/0xf6a44f61030115b5da382b198b711130d98390d9)
 - Aurora testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.aurorascan.dev/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Fantom testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.ftmscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
