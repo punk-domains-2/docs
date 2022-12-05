@@ -12,7 +12,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 - Songbird: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://songbird-explorer.flare.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Gnosis Chain: [](https://blockscout.com/xdai/mainnet/address/)
-- Optimism: [](https://optimistic.etherscan.io/address/)
+- Optimism: [0x58099109D41D85F67c78c1DFa23Ae339605F4d82](https://optimistic.etherscan.io/address/0x58099109D41D85F67c78c1DFa23Ae339605F4d82)
 - Polygon PoS Chain: [0xdf293B5d41034A872abb078182b45e9721E8E380](https://polygonscan.com/address/0xdf293B5d41034A872abb078182b45e9721E8E380)
 - Arbitrum: [0xc20cBd7E73ed58531c18F7bC61524Ff8d89c78a0](https://arbiscan.io/address/0xc20cBd7E73ed58531c18F7bC61524Ff8d89c78a0)
 - Ethereum: [0xA33dCbE04278706248891931537Dd56B795c3663](https://etherscan.io/address/0xA33dCbE04278706248891931537Dd56B795c3663)

@@ -27,6 +27,7 @@ order: 40
 - .spartan: [0x3490C9817C45A2a394b11A3807f58a8325235aE0](https://optimistic.etherscan.io/token/0x3490C9817C45A2a394b11A3807f58a8325235aE0)
 - .l2: [0x9A7657d1593032C75d70950707870c3cC7ca45DC](https://optimistic.etherscan.io/token/0x9a7657d1593032c75d70950707870c3cc7ca45dc) (this TLD is owned by Layer2DAO)
 - .op: [0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F](https://optimistic.etherscan.io/token/0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F)
+- .pool: [0xf2C9E463592BD440f0D422E944E5F95c79404586](https://optimistic.etherscan.io/token/0xf2C9E463592BD440f0D422E944E5F95c79404586) (this TLD is owned by the PoolTogether DAO)
 
 ### Polygon PoS Chain
 
