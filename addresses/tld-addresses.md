@@ -9,6 +9,7 @@ order: 40
 ### Songbird
 
 - .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+- .satrap: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://songbird-explorer.flare.network/address/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096) (this TLD is owned by Clavi and the Satraps team)
 
 ### Fantom
 
