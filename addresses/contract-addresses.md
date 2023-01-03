@@ -21,7 +21,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Testnets
 
-- Flare Testnet (Coston): [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://coston-explorer.flare.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Flare Testnet (Coston): [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://coston-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Sokol (Gnosis Chain): 
 - Optimism Kovan: [0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281](https://kovan-optimistic.etherscan.io/address/0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281)
 - Mumbai (Polygon): [0xD6e994d98bD269a61aF8FB3d0cdCE2304440A057](https://mumbai.polygonscan.com/address/0xD6e994d98bD269a61aF8FB3d0cdCE2304440A057)
