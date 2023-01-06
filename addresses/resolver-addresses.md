@@ -6,16 +6,16 @@ order: 30
 
 [Resolver](../contracts/resolver.md) is a contract which resolves all punk domains on a given chain. Each chain has its own Resolver contract.
 
-Resolver is an upgradable contract, so its address will never change.
+## Upgradable Resolver contracts
+
+The following addresses are for upgradable Resolver contracts. If you prefer non-upgradable ones, scroll to the bottom.
 
 ### Mainnets (proxy)
 
 - Songbird: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://songbird-explorer.flare.network/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
-- Gnosis Chain: [0x7Df67B2ef4eEDf49Fc53Bb6E94e90e9546FC6c6B](https://blockscout.com/xdai/mainnet/address/0x7Df67B2ef4eEDf49Fc53Bb6E94e90e9546FC6c6B)
 - Optimism: [0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06](https://optimistic.etherscan.io/address/0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06)
 - Polygon PoS Chain: [0x07884566cdED43eDaec7813C1523624202b060D3](https://polygonscan.com/address/0x07884566cdED43eDaec7813C1523624202b060D3)
 - Arbitrum: [0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA](https://arbiscan.io/address/0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA)
-- Ethereum: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://etherscan.io/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
 - BSC: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://bscscan.com/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Fantom: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://ftmscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 
@@ -34,11 +34,9 @@ Resolver is an upgradable contract, so its address will never change.
 ### Mainnets
 
 - Songbird: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://songbird-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
-- Gnosis Chain: [0x7a2A533794d2c1C19EA10D9B0c2acA419520B94b](https://blockscout.com/xdai/mainnet/address/0x7a2A533794d2c1C19EA10D9B0c2acA419520B94b)
 - Optimism: [0xAF73b136dD1902E36E33e968be93E30e17A5B01E](https://optimistic.etherscan.io/address/0xAF73b136dD1902E36E33e968be93E30e17A5B01E)
 - Polygon PoS Chain: [0x4698d2B5B20100BeE1390C494E20659a6C976818](https://polygonscan.com/address/0x4698d2B5B20100BeE1390C494E20659a6C976818)
 - Arbitrum: [0x6e29C6A5D46f37f1D25F148F26296689A9E03F06](https://arbiscan.io/address/0x6e29C6A5D46f37f1D25F148F26296689A9E03F06)
-- Ethereum: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://etherscan.io/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - BSC: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://bscscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 - Fantom: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://ftmscan.com/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 
@@ -51,3 +49,8 @@ Resolver is an upgradable contract, so its address will never change.
 - Arbitrum Rinkeby: [0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D](https://testnet.arbiscan.io/address/0xbb056744bB2Ab473058ED7F3e1764FCf4Bb1313D)
 - Aurora testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://testnet.aurorascan.dev/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 - Fantom testnet: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://testnet.ftmscan.com/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
+
+## Non-upgradable Resolver contracts
+
+- Ethereum: [0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519](https://etherscan.io/address/0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519)
+- Gnosis Chain: [0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17](https://blockscout.com/xdai/mainnet/address/0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17)
