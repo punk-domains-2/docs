@@ -10,6 +10,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Mainnets
 
+- Flare: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://flare-explorer.flare.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Songbird: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://songbird-explorer.flare.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Gnosis Chain: [](https://blockscout.com/xdai/mainnet/address/)
 - Optimism: [0x58099109D41D85F67c78c1DFa23Ae339605F4d82](https://optimistic.etherscan.io/address/0x58099109D41D85F67c78c1DFa23Ae339605F4d82)

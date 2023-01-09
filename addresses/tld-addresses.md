@@ -6,6 +6,10 @@ order: 40
 
 > Note that only TLDs that have buying domains enabled are visible on the Punk Domains front page.
 
+### Flare
+
+- .flr: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://flare-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
+
 ### Songbird
 
 - .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)

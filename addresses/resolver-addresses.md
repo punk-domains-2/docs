@@ -33,6 +33,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 
 ### Mainnets
 
+- Flare: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://flare-explorer.flare.network/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
 - Songbird: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://songbird-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Optimism: [0xAF73b136dD1902E36E33e968be93E30e17A5B01E](https://optimistic.etherscan.io/address/0xAF73b136dD1902E36E33e968be93E30e17A5B01E)
 - Polygon PoS Chain: [0x4698d2B5B20100BeE1390C494E20659a6C976818](https://polygonscan.com/address/0x4698d2B5B20100BeE1390C494E20659a6C976818)
@@ -53,4 +54,5 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 ## Non-upgradable Resolver contracts
 
 - Ethereum: [0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519](https://etherscan.io/address/0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519)
+- Flare: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://flare-explorer.flare.network/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 - Gnosis Chain: [0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17](https://blockscout.com/xdai/mainnet/address/0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17)

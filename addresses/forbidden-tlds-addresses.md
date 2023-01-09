@@ -10,6 +10,7 @@ Each chain has its own PunkForbiddenTlds contract.
 
 ### Mainnets
 
+- Flare: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://flare-explorer.flare.network/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Songbird: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://songbird-explorer.flare.network/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Gnosis Chain: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://blockscout.com/xdai/mainnet/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Optimism: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://optimistic.etherscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
