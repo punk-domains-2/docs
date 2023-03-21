@@ -64,4 +64,4 @@ order: 40
 ### Deprecated
 
 - .web3: [0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B](https://polygonscan.com/token/0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B) ([Claim refund here](https://punk.domains/#/deprecate/web3))
-- .polygon: [0xa450bc33d0940d25fB0961c592fb440Fa63ABE03](https://polygonscan.com/token/0xa450bc33d0940d25fB0961c592fb440Fa63ABE03)
+- .polygon: [0xa450bc33d0940d25fB0961c592fb440Fa63ABE03](https://polygonscan.com/token/0xa450bc33d0940d25fB0961c592fb440Fa63ABE03) ([Claim refund here](https://punk.domains/#/deprecate/polygon))
