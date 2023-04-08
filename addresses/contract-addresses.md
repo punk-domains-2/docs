@@ -30,6 +30,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Arbitrum Rinkeby: [0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8](https://testnet.arbiscan.io/address/0x9d91D1e0b80aB69BA5874099Ce438936DE4d87a8)
 - Aurora testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://testnet.aurorascan.dev/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Fantom testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://testnet.ftmscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- zkSync Era Testnet: [0xD73B4029C70f83e0391114740738c7c75270bfBD](https://goerli.explorer.zksync.io/address/0xD73B4029C70f83e0391114740738c7c75270bfBD)
 
 ## Standard
 
