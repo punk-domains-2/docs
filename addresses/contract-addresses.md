@@ -32,6 +32,16 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Fantom testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://testnet.ftmscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - zkSync Era Testnet: [0xD73B4029C70f83e0391114740738c7c75270bfBD](https://goerli.explorer.zksync.io/address/0xD73B4029C70f83e0391114740738c7c75270bfBD)
 
+## Soulbound
+
+### Mainnets
+
+- zkSync Era: [0xd97c219096FFf79B902ba96E697D59cDF68F2ae1](https://explorer.zksync.io/address/0xd97c219096FFf79B902ba96E697D59cDF68F2ae1)
+
+### Testnets
+
+- zkSync Era Testnet: [0xc3496554F548656367009E3a6dCCB416539dc831](https://goerli.explorer.zksync.io/address/0xc3496554F548656367009E3a6dCCB416539dc831)
+
 ## Standard
 
 ### Mainnets

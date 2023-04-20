@@ -6,6 +6,10 @@ order: 40
 
 > Note that only TLDs that have buying domains enabled are visible on the Punk Domains front page.
 
+### zkSync Era
+
+- .zksoul: [0xe36507aD67Ac0aE6D27D22b407A9338b136315df](https://explorer.zksync.io/address/0xe36507aD67Ac0aE6D27D22b407A9338b136315df) - [website](https://id.zkchat.net)
+
 ### Flare
 
 - .flr: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://flare-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a) - [website](https://flr.domains)

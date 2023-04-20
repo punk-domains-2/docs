@@ -58,6 +58,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Ethereum: [0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519](https://etherscan.io/address/0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519)
 - Flare: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://flare-explorer.flare.network/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 - Gnosis Chain: [0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17](https://blockscout.com/xdai/mainnet/address/0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17)
+- zkSync Era: [0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f](https://explorer.zksync.io/address/0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f)
 
 ### Testnets
 
