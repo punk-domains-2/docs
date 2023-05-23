@@ -38,6 +38,7 @@ order: 40
 - .l2: [0x9A7657d1593032C75d70950707870c3cC7ca45DC](https://optimistic.etherscan.io/token/0x9a7657d1593032c75d70950707870c3cc7ca45dc) (this TLD is owned by Layer2DAO)
 - .op: [0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F](https://optimistic.etherscan.io/token/0xC16aCAdf99E4540E6f4E6Da816fd6D2A2C6E1d4F) - [website](https://optimistic.domains)
 - .pool: [0xf2C9E463592BD440f0D422E944E5F95c79404586](https://optimistic.etherscan.io/token/0xf2C9E463592BD440f0D422E944E5F95c79404586) (this TLD is owned by the PoolTogether DAO) - [website](https://names.pooly.me)
+- .dope: [0x1d33989185AA79a3B9173bC7B1137E527C6A262b](https://optimistic.etherscan.io/token/0x1d33989185AA79a3B9173bC7B1137E527C6A262b) (this TLD is owned by the Dope Wars DAO)
 
 ### Polygon PoS Chain
 
