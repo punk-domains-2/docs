@@ -13,5 +13,4 @@ pipelines:
             - git checkout -B retype
             - git add .
             - git commit -m "Retype build"
-            - git push --set-upstream origin retype
-            - git push --force origin retype
+            - git push --set-upstream origin retype -f
