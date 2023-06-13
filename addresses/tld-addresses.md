@@ -28,7 +28,7 @@ order: 40
 - .gnosis: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://blockscout.com/xdai/mainnet/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
 - .xdai: [0xbca24d86e4ad1e011278faefc4ff191a731411ec](https://blockscout.com/xdai/mainnet/token/0xbca24d86e4ad1e011278faefc4ff191a731411ec)
 - .bright: [0x3490c9817c45a2a394b11a3807f58a8325235ae0](https://blockscout.com/xdai/mainnet/token/0x3490c9817c45a2a394b11a3807f58a8325235ae0)
-- .giveth: [0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a](https://blockscout.com/xdai/mainnet/token/0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a) - [website](https://giveth.punk.domains)
+- .giveth: [0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a](https://blockscout.com/xdai/mainnet/token/0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a) - [website](https://giveth.punk.domains)  (this TLD is owned by Giveth)
 
 ### Optimism
 
