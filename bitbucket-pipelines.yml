@@ -1,0 +1,25 @@
+#  Template NodeJS build
+
+#  This template allows you to validate your NodeJS code.
+#  The workflow allows running tests and code linting on the default branch.
+
+image: node:16
+
+pipelines:
+  default:
+    - parallel:
+        - step:
+            name: Retype Build
+            caches:
+              - node
+            script:
+              - npm install retypeapp --global
+              - retype build
+              - git checkout -B retype # Replace 'new-branch' with the desired name for the new branch
+              - git rm -r --ignore-unmatch .
+              - git clean -fxd
+              - git checkout HEAD -- .retype/
+              - git add .
+              - git commit -m "Retype build"
+              - git push origin retype
+
