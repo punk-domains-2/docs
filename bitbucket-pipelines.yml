@@ -1,23 +1,17 @@
-#  Template NodeJS build
-
-#  This template allows you to validate your NodeJS code.
-#  The workflow allows running tests and code linting on the default branch.
-
 image: node:16
 
 pipelines:
   branches:
-    - main:
-        - step:
-            name: Retype Build
-            caches:
-              - node
-            script:
-              - npm install retypeapp --global
-              - retype build
-              - git checkout -B retype
-              - git add .
-              - git commit -m "Retype build"
-              - git push --set-upstream origin retype
-              - git push --force origin retype
-
+    main:
+      - step:
+          name: Retype Build
+          caches:
+            - node
+          script:
+            - npm install retypeapp --global
+            - retype build
+            - git checkout -B retype
+            - git add .
+            - git commit -m "Retype build"
+            - git push --set-upstream origin retype
+            - git push --force origin retype
