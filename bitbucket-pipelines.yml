@@ -18,7 +18,7 @@ pipelines:
               - git checkout -B retype # Replace 'new-branch' with the desired name for the new branch
               - git rm -r --ignore-unmatch .
               - git clean -fxd
-              - git checkout HEAD -- .retype/
+              - git checkout HEAD -- dist/
               - git add .
               - git commit -m "Retype build"
               - git push origin retype

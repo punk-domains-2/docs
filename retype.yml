@@ -1,5 +1,5 @@
 input: .
-output: .retype
+output: dist
 url: docs.punk.domains
 favicon: static/favicon.ico
 branding:
