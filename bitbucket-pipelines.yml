@@ -15,11 +15,8 @@ pipelines:
             script:
               - npm install retypeapp --global
               - retype build
-              - git checkout -B retype # Replace 'new-branch' with the desired name for the new branch
-              - git rm -r --ignore-unmatch .
-              - git clean -fxd
-              - git checkout HEAD -- dist/
+              - git checkout -B retype
               - git add .
               - git commit -m "Retype build"
-              - git push origin retype
+              - git push --force origin retype
 
