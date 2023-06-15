@@ -6,7 +6,7 @@ order: 30
 
 TLD Factory is owned by Punk Domains governance. This contract is responsible for issuing new TLDs and keeping a list of all TLDs created through it, and their respective addresses.
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol
+**Contract code:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/standard/PunkTLDFactory.sol
 
 ## Public state variables
 

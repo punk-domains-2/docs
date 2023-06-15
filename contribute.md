@@ -47,7 +47,7 @@ For example, an NFT community can decide to have a Minter contract that provides
 
 A contributor can set up such a smart contract for the client, and can also be rewarded for the work by the client. The reward can either be a one-time payment, an NFT, a share of each domain minting payment (this can be coded into the Minter contract), or something else that they agree on.
 
-There are a bunch of already developed Minter smart contracts [in our GitHub repository](https://github.com/punk-domains/punk-contracts/tree/main/contracts/partners), so it's just a matter of finding the one that fits the client's use case the most and tweaking it a bit if needed.
+There are a bunch of already developed Minter smart contracts [in our GitHub repository](https://github.com/punk-domains-2/punk-contracts/tree/main/contracts/partners), so it's just a matter of finding the one that fits the client's use case the most and tweaking it a bit if needed.
 
 ### Front-end development for clients
 
@@ -55,7 +55,7 @@ Most clients wish to have their own frontend for minting domain names, with thei
 
 ![Frontend for People Domains](https://blog.punk.domains/img/ppl-joie/ppl-domains.png)
 
-It does not make sense to reinvent a wheel each time, that's why we have a [frontend template](https://github.com/punk-domains/punk-fe-template) (written in Vue.js) that we use for any new client. 
+It does not make sense to reinvent a wheel each time, that's why we have a [frontend template](https://github.com/punk-domains-2/punk-fe-template) (written in Vue.js) that we use for any new client. 
 
 What a contributor needs to do is just clone this template and tweak it based on the client's needs (changing colors, brand name, adding the correct smart contract addresses etc.)
 

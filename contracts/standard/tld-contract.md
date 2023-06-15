@@ -6,7 +6,7 @@ order: 28
 
 TLD contracts are generated dynamically by a Factory contract based on a pre-defined template.
 
-**See the Standard TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol
+**See the Standard TLD contract here:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/standard/PunkTLD.sol
 
 ## Data
 

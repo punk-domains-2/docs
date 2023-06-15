@@ -6,7 +6,7 @@ order: 31
 
 The Punk Domains architecture allows for multiple TLD factories (each with a different business model). In order to avoid colisions (two factories must not issue the same TLD), a separate contract is needed which keeps track of already-used and forbidden TLD names.
 
-**Contract code:** [https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol](https://github.com/punk-domains/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol)
+**Contract code:** [https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/PunkForbiddenTlds.sol)
 
 ## Read methods
 

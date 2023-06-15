@@ -8,9 +8,9 @@ TLD contracts are generated dynamically by a Factory contract based on a pre-def
 
 As the name implies, Flexi TLD contract allows for more flexibility compared to the Standard TLD contract. The major difference is that domain/NFT metadata is separated into its own contract, which makes it easier to customize both metadata and domain images.
 
-**See the Flexi TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLD.sol
+**See the Flexi TLD contract here:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLD.sol
 
-**ABI:** https://github.com/punk-domains/punk-abi/blob/main/FlexiTldAbi.json 
+**ABI:** https://github.com/punk-domains-2/punk-abi/blob/main/FlexiTldAbi.json 
 
 ## Data
 
@@ -34,7 +34,7 @@ struct Domain {
 
 Read more about custom data [here](custom-data.md).
 
-> Note that in Flexi contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
+> Note that in Flexi contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
 
 ## Read methods
 

@@ -6,9 +6,9 @@ order: 28
 
 The Soulbound TLD contract is almost identical to the Flexi TLD contract, except that it does not allow domain transfers beyong minting and burning. Soulbound TLD is another name for a non-transferable TLD.
 
-**See the Soulbound TLD contract here:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLD.sol
+**See the Soulbound TLD contract here:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLD.sol
 
-**ABI (the same as for the Flexi TLD):** https://github.com/punk-domains/punk-abi/blob/main/FlexiTldAbi.json 
+**ABI (the same as for the Flexi TLD):** https://github.com/punk-domains-2/punk-abi/blob/main/FlexiTldAbi.json 
 
 ## Data
 
@@ -32,7 +32,7 @@ struct Domain {
 
 Read more about custom data [here](custom-data.md).
 
-> Note that in Flexi/Soulbound contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
+> Note that in Flexi/Soulbound contracts the Domain struct is defined in the [IBasePunkTLD interface](https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/interfaces/IBasePunkTLD.sol).
 
 ## Read methods
 

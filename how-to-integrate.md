@@ -40,7 +40,7 @@ To get domain's metadata, call this function in the Resolver contract:
 
 Note that most punk domains have metadata stored onchain, which means it's base64 encoded. In order to decode it, you can use the standard Node library called Buffer (something like `Buffer.from(metadata.substring(29), "base64")`).
 
-See an [example here](https://github.com/punk-domains/punk-contracts/blob/f489dbd785005a2ea590d14a1c6b23e1ab6bf98e/test/resolver/proxy.test.js#L456).
+See an [example here](https://github.com/punk-domains-2/punk-contracts/blob/f489dbd785005a2ea590d14a1c6b23e1ab6bf98e/test/resolver/proxy.test.js#L456).
 
 ### C) Show domain image
 

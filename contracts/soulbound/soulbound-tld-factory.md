@@ -6,7 +6,7 @@ order: 30
 
 Soulbound TLD Factory is identical to the Flexi TLD Factory, except the embedded TLD template is slighly different (it does not allow token transfers).
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLDFactory.sol
+**Contract code:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/soulbound/SoulboundPunkTLDFactory.sol
 
 > There are multiple factory contracts, Soulbound is one of them. Read more about the Punk Domains architecture in this article: [Modular Architecture](/modular-architecture.md).
 

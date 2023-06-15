@@ -6,7 +6,7 @@ order: 30
 
 Flexi TLD Factory is a contract responsible for issuing new TLDs and keeping a list of all TLDs created through it, and their respective addresses.
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLDFactory.sol
+**Contract code:** https://github.com/punk-domains-2/punk-contracts/blob/main/contracts/factories/flexi/FlexiPunkTLDFactory.sol
 
 > There are multiple factory contracts, Flexi is one of them. Read more about the Punk Domains architecture in this article: [Modular Architecture](/modular-architecture.md).
 

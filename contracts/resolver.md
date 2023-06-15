@@ -10,9 +10,9 @@ The benefit is that you only need to store one contract address (the PunkResolve
 
 **Resolver addresses (proxy):** https://docs.punk.domains/addresses/resolver-addresses/
 
-**Contract code:** https://github.com/punk-domains/punk-contracts/tree/main/contracts/resolver
+**Contract code:** https://github.com/punk-domains-2/punk-contracts/tree/main/contracts/resolver
 
-**ABI:** https://github.com/punk-domains/punk-abi/blob/main/PunkResolverAbi.json 
+**ABI:** https://github.com/punk-domains-2/punk-abi/blob/main/PunkResolverAbi.json 
 
 ## State variables
 
