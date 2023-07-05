@@ -33,3 +33,5 @@ Each chain has its own PunkForbiddenTlds contract.
 - Aurora testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.aurorascan.dev/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Fantom testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.ftmscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - zkSync Era Testnet: [0x80014cC4e645Bc0193dcE0EeCAe7Ef449c66D702](https://goerli.explorer.zksync.io/address/0x80014cC4e645Bc0193dcE0EeCAe7Ef449c66D702)
+- Mantle Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.testnet.mantle.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Optimism Goerli: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://goerli-optimism.etherscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
