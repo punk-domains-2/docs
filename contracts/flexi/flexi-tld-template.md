@@ -259,7 +259,7 @@ Returns the domain holder's address. If no one owns the domain (yet), the return
 
 Input:
 
-- Domain name
+- Domain name (without extension!)
 
 ```solidity
 function getDomainHolder(string memory) public view returns(address)
