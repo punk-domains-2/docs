@@ -70,6 +70,6 @@ With Punk Domains, you're in complete control and you can own your domain name f
 
 ### TLD owners have complete control over their TLDs
 
-Top-level domains (TLDs) are also known as domain extensions (for example, .wagmi, .wagmi, .arbi). If a web3 domain name service offers multiple TLDs that can be owned by different entites, it is very important that TLD owners have complete control over their respective TLDs.
+Top-level domains (TLDs) are also known as domain extensions (for example, .wagmi, .wagmi, .arbi). If a web3 domain name service offers multiple TLDs that can be owned by different entities, it is very important that TLD owners have complete control over their respective TLDs.
 
 At Punk Domains we focus on **Domains for DAOs**, that's why we feel it's very important that TLD owners control their TLDs. As with domain names, once you own a TLD, you can own it forever. Punk Domains cannot take it from you, you have complete control.
