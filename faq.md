@@ -86,7 +86,7 @@ A minted domain name is valid forever.
 
 The easiest way to mint a domain is through the Punk Domains website (on the home page). 
 
-But you can also do it through a block explorer like PolygonScan, ArbiScan, Optimism Etherscan, and Blockscout. TLD contracts are verified on all these block explorers, which means you can use the UI that they provide for interracting with smart contracts.
+But you can also do it through a block explorer like PolygonScan, ArbiScan, Optimism Etherscan, and Blockscout. TLD contracts are verified on all these block explorers, which means you can use the UI that they provide for interacting with smart contracts.
 
 ### 14. What are the supported blockchains? 
 
