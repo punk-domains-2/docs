@@ -8,7 +8,7 @@ image: ./static/how-to-integrate.jpg
 
 If you'd like to integrate Punk Domains into your web3 app, chances are the only smart contract you'll need to interact with is the [Resolver contract](/contracts/resolver.md).
 
-Each network has their own copy of the Resolver contract. Find addresses here (proxy adddresses): https://docs.punk.domains/addresses/resolver-addresses/ 
+Each network has their own copy of the Resolver contract. Find addresses here (proxy addresses): https://docs.punk.domains/addresses/resolver-addresses/ 
 
 ## Usecases
 
