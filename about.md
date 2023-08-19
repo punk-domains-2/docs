@@ -32,3 +32,9 @@ Punk Domains architecture is very flexible and it allows for various domain busi
 Punk Domains is not just about domains (in the web2 sense of the word). It's about **identity** in the web3 world. Domain name gives you a digital identity, and data attached to this identity strengthen it.
 
 Another thing that Punk Domains cherishes is full decentralization. The contracts are non-upgradable and don't need any keepers (or similar outside software) to properly operate. The only thing not decentralized yet is the main factory contract ownership (the one that decides a new TLD price) - but stay tuned... 😉
+
+### Where are Punk Domains being used?
+
+You can use Punk Domains to send tokens (see [Send2name](https://send2.name)), but an even more exciting use case is using punk domains as usernames in Web3 Social. To help web3 communities start using this feature, we're building [Iggy Social](https://iggy.social), a set of open source tools for decentralized social networks.
+
+The first Web3 Social chat built with Punk Domains and Iggy is SGB Chat: https://sgb.chat/. The next one is [Basebook](https://basebook.xyz/) with many more coming.
