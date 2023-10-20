@@ -17,8 +17,9 @@ order: 40
 
 ### Base
 
-- .basebook: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://base.blockscout.com/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1)
-- .basepunk: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://base.blockscout.com/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876)
+- .basebook: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://basescan.org/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1)
+- .based: [0x273dB54929d8392c1997Be361Da89D41af202a49](https://basescan.org/address/0x273dB54929d8392c1997Be361Da89D41af202a49) (this TLD is owned by the Based DAO) - [website](https://basednames.xyz/)
+- .basepunk: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://basescan.org/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876) (this TLD is owned by the BasePunk NFT community) - [website](https://id.basepunk.xyz/)
 
 ### BNB Smart Chain
 
