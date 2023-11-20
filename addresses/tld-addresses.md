@@ -32,7 +32,7 @@ order: 40
 
 ### Fantom
 
-- .fantom: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://ftmscan.com/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a) - [website](https://fantomnames.org)
+- .fantom: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://ftmscan.com/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a) - [website](https://fantomname.org)
 
 ### Flare
 
