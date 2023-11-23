@@ -60,6 +60,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Gnosis Chain: [0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17](https://blockscout.com/xdai/mainnet/address/0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17)
 - zkSync Era: [0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f](https://explorer.zksync.io/address/0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f)
 - Base: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://basescan.org/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Scroll: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scrollscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 

@@ -63,6 +63,10 @@ order: 40
 - .klima: [0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4](https://polygonscan.com/token/0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4) (this TLD is owned by Gwami Labs) - [website](https://www.kns.earth)
 - .basin: [0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da](https://polygonscan.com/token/0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da) (this TLD is owned by BasinDAO) - [website](https://app.basin.global)
 
+### Scroll
+
+- .alscroll: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://scrollscan.com/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1) (TLD for AlwaysLiquid on Scroll) - [website](https://scroll.alwaysliquid.com)
+
 ### Songbird
 
 - .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a) - [website](https://songbird.domains)
