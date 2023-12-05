@@ -22,6 +22,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - zkSync Era: [0xbE6B3B0668d40FA042E2209462ED660AAf5874c7](https://explorer.zksync.io/address/0xbE6B3B0668d40FA042E2209462ED660AAf5874c7)
 - Base: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://basescan.org/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Scroll: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://scrollscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Kroma: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://blockscout.kroma.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 

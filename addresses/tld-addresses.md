@@ -45,6 +45,10 @@ order: 40
 - .bright: [0x3490c9817c45a2a394b11a3807f58a8325235ae0](https://blockscout.com/xdai/mainnet/token/0x3490c9817c45a2a394b11a3807f58a8325235ae0)
 - .giveth: [0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a](https://blockscout.com/xdai/mainnet/token/0xEEa3e593CDAf9D18780f9D58BAD142AF6Bd9522a) - [website](https://giveth.punk.domains) (this TLD is owned by the Giveth DAO)
 
+### Kroma
+
+- .alkroma: [0x6c66f1d5684630fb69350a7a88bcca60629d7252](https://blockscout.kroma.network/address/0x6c66f1d5684630fb69350a7a88bcca60629d7252) (TLD for AlwaysLiquid on Kroma) - [website](https://kroma.alwaysliquid.com)
+
 ### Optimism
 
 - .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)

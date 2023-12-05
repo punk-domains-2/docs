@@ -21,6 +21,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Fantom: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://ftmscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Base: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://base.blockscout.com/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Scroll: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://scrollscan.com/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Kroma: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://blockscout.kroma.network/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 
 ### Testnets
 

@@ -61,6 +61,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - zkSync Era: [0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f](https://explorer.zksync.io/address/0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f)
 - Base: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://basescan.org/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Scroll: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scrollscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Kroma: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://blockscout.kroma.network/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 
