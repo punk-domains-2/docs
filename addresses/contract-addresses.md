@@ -22,6 +22,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Base: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://base.blockscout.com/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Scroll: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://scrollscan.com/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Kroma: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://blockscout.kroma.network/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
+- ZKFair: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://scan.zkfair.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 
@@ -36,6 +37,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - zkSync Era Testnet: [0xD73B4029C70f83e0391114740738c7c75270bfBD](https://goerli.explorer.zksync.io/address/0xD73B4029C70f83e0391114740738c7c75270bfBD)
 - Mantle Testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.testnet.mantle.xyz/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Optimism Goerli: [0xa97c7af10ee564ebf452a9347bb9653454ba69c0](https://goerli-optimism.etherscan.io/address/0xa97c7af10ee564ebf452a9347bb9653454ba69c0)
+- Taiko Jolnir Testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.jolnir.taiko.xyz/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ## Soulbound
 

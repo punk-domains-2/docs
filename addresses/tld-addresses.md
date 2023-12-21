@@ -76,6 +76,10 @@ order: 40
 - .sgb: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://songbird-explorer.flare.network/address/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a) - [website](https://songbird.domains)
 - .satrap: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://songbird-explorer.flare.network/address/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096) (this TLD is owned by Clavi and the Satraps team) - [website](https://id.satraps.io)
 
+### ZKFair
+
+- .fairchat: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://scan.zkfair.io/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1)
+
 ### zkSync Era
 
 - .zksoul: [0xe36507aD67Ac0aE6D27D22b407A9338b136315df](https://explorer.zksync.io/address/0xe36507aD67Ac0aE6D27D22b407A9338b136315df) - [website](https://id.zkchat.net)

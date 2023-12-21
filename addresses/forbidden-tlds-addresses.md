@@ -23,6 +23,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - Base: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://basescan.org/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Scroll: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://scrollscan.com/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Kroma: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://blockscout.kroma.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- ZKFair: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://scan.zkfair.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 
 ### Testnets
 
@@ -38,3 +39,4 @@ Each chain has its own PunkForbiddenTlds contract.
 - zkSync Era Testnet: [0x80014cC4e645Bc0193dcE0EeCAe7Ef449c66D702](https://goerli.explorer.zksync.io/address/0x80014cC4e645Bc0193dcE0EeCAe7Ef449c66D702)
 - Mantle Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.testnet.mantle.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Optimism Goerli: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://goerli-optimism.etherscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Taiko Jolnir Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.jolnir.taiko.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)

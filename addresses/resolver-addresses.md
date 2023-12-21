@@ -62,9 +62,11 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Base: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://basescan.org/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Scroll: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scrollscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Kroma: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://blockscout.kroma.network/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- ZKFair: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scan.zkfair.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 
 - zkSync Era Testnet: [0x1667d9d508FE4F73f3004f431A27F2C225215C3C](https://goerli.explorer.zksync.io/address/0x1667d9d508FE4F73f3004f431A27F2C225215C3C)
 - Mantle Testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.testnet.mantle.xyz/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Optimism Goerli: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://goerli-optimism.etherscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Taiko Jolnir Testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.jolnir.taiko.xyz/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
