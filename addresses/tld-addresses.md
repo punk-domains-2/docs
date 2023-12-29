@@ -49,6 +49,10 @@ order: 40
 
 - .alkroma: [0x6c66f1d5684630fb69350a7a88bcca60629d7252](https://blockscout.kroma.network/address/0x6c66f1d5684630fb69350a7a88bcca60629d7252) (TLD for AlwaysLiquid on Kroma) - [website](https://kroma.alwaysliquid.com)
 
+### Linea
+
+- .alinea: [0x6c66f1d5684630fb69350a7a88bcca60629d7252](https://lineascan.build/address/0x6c66f1d5684630fb69350a7a88bcca60629d7252) (TLD for AlwaysLiquid on Linea) - [website](https://linea.alwaysliquid.com)
+
 ### Optimism
 
 - .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
