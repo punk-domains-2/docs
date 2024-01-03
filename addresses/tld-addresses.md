@@ -15,6 +15,10 @@ order: 40
 - .ppl: [0xbC9d19e5f97a572f428F7292DBf3dc182Cc05C82](https://arbiscan.io/token/0xbC9d19e5f97a572f428F7292DBf3dc182Cc05C82) (this TLD is owned by Joie Degarlic) - [website](https://ppl.domains)
 - .misie: [0x526Ff108F5d422d0e1d6650E2Bc015BBE1fdb058](https://arbiscan.io/token/0x526Ff108F5d422d0e1d6650E2Bc015BBE1fdb058) (this TLD is owned by Johnnie Skywalker)
 
+### Arbitrum Nova
+
+- .alnova: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://nova.arbiscan.io/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1)
+
 ### Base
 
 - .basebook: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://basescan.org/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1)

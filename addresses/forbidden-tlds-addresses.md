@@ -25,6 +25,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - Kroma: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://blockscout.kroma.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Linea: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://lineascan.build/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - ZKFair: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://scan.zkfair.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
+- Arbitrum Nova: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://nova.arbiscan.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 
 ### Testnets
 

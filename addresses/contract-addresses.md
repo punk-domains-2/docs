@@ -24,6 +24,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Kroma: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://blockscout.kroma.network/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 - Linea: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://lineascan.build/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 - ZKFair: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://scan.zkfair.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Arbitrum Nova: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://nova.arbiscan.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 

@@ -64,6 +64,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Kroma: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://blockscout.kroma.network/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Linea: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://lineascan.build/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - ZKFair: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scan.zkfair.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Arbitrum Nova: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://nova.arbiscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 
