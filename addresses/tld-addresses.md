@@ -78,6 +78,7 @@ order: 40
 ### Scroll
 
 - .alscroll: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://scrollscan.com/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1) (TLD for AlwaysLiquid on Scroll) - [website](https://scroll.alwaysliquid.com)
+- .scrolly: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://scrollscan.com/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876) (TLD for Scrolly The Map web3 community) - [website](https://sns.scrolly.xyz)
 
 ### Songbird
 
