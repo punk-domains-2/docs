@@ -45,7 +45,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Mainnets
 
-- zkSync Era: [0xd97c219096FFf79B902ba96E697D59cDF68F2ae1](https://explorer.zksync.io/address/0xd97c219096FFf79B902ba96E697D59cDF68F2ae1)
+- zkSync Era: [0xd97c219096FFf79B902ba96E697D59cDF68F2ae1](https://era.zksync.network/address/0xd97c219096FFf79B902ba96E697D59cDF68F2ae1)
 
 ### Testnets
 

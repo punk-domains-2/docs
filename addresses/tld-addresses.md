@@ -91,7 +91,7 @@ order: 40
 
 ### zkSync Era
 
-- .zksoul: [0xe36507aD67Ac0aE6D27D22b407A9338b136315df](https://explorer.zksync.io/address/0xe36507aD67Ac0aE6D27D22b407A9338b136315df) - [website](https://id.zkchat.net)
+- .zksoul: [0xe36507aD67Ac0aE6D27D22b407A9338b136315df](https://era.zksync.network/address/0xe36507aD67Ac0aE6D27D22b407A9338b136315df) - [website](https://id.zkchat.net)
 
 ### Deprecated
 
