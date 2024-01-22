@@ -42,3 +42,5 @@ Each chain has its own PunkForbiddenTlds contract.
 - Mantle Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.testnet.mantle.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Optimism Goerli: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://goerli-optimism.etherscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Taiko Jolnir Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.jolnir.taiko.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Taiko Katla Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.katla.taiko.xyz/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- SatoshiVM Testnet: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://testnet.svmscan.io/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)

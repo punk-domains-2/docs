@@ -40,6 +40,8 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Mantle Testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.testnet.mantle.xyz/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Optimism Goerli: [0xa97c7af10ee564ebf452a9347bb9653454ba69c0](https://goerli-optimism.etherscan.io/address/0xa97c7af10ee564ebf452a9347bb9653454ba69c0)
 - Taiko Jolnir Testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.jolnir.taiko.xyz/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Taiko Katla Testnet: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.katla.taiko.xyz/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- SatoshiVM Testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://testnet.svmscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ## Soulbound
 
