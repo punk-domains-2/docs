@@ -57,6 +57,10 @@ order: 40
 
 - .alinea: [0x6c66f1d5684630fb69350a7a88bcca60629d7252](https://lineascan.build/address/0x6c66f1d5684630fb69350a7a88bcca60629d7252) (TLD for AlwaysLiquid on Linea) - [website](https://linea.alwaysliquid.com)
 
+### Mode
+
+- .modechat: [0x523a7050df3DC7E96B7faAF4dDECCc244d886a90](https://explorer.mode.network/token/0x523a7050df3DC7E96B7faAF4dDECCc244d886a90) (TLD for ModeChat) - [website](https://modechat.xyz)
+
 ### Optimism
 
 - .wagmi: [0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f](https://optimistic.etherscan.io/token/0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f)
@@ -77,8 +81,8 @@ order: 40
 
 ### Scroll
 
+- .scrolly: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://scrollscan.com/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876) (TLD for Scrolly The Map web3 community) - [website](https://hub.scrolly.xyz)
 - .alscroll: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://scrollscan.com/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1) (TLD for AlwaysLiquid on Scroll) - [website](https://scroll.alwaysliquid.com)
-- .scrolly: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://scrollscan.com/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876) (TLD for Scrolly The Map web3 community) - [website](https://sns.scrolly.xyz)
 
 ### Songbird
 
