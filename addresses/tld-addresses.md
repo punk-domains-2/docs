@@ -60,6 +60,7 @@ order: 40
 ### Mode
 
 - .modechat: [0x523a7050df3DC7E96B7faAF4dDECCc244d886a90](https://explorer.mode.network/token/0x523a7050df3DC7E96B7faAF4dDECCc244d886a90) (TLD for ModeChat) - [website](https://modechat.xyz)
+- .ion: [0x2eDB84A03e5AC3C17CF0e151fC4970F13834B36E](https://explorer.mode.network/token/0x2eDB84A03e5AC3C17CF0e151fC4970F13834B36E) (TLD for Ionic) - [website](https://id.ionic.money)
 
 ### Optimism
 

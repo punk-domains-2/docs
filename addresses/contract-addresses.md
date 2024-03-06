@@ -25,6 +25,8 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Linea: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://lineascan.build/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 - ZKFair: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://scan.zkfair.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Arbitrum Nova: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://nova.arbiscan.io/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Mode: [0x7e8ab50697c7abe63bdab6b155c2fb8d285458cb](https://explorer.mode.network/address/0x7e8ab50697c7abe63bdab6b155c2fb8d285458cb)
+- Blast: [0x1B293F3fEdBB97cE6e17b3AB08723a942A5B774c](https://blastscan.io/address/0x1B293F3fEdBB97cE6e17b3AB08723a942A5B774c)
 
 ### Testnets
 

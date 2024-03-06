@@ -65,6 +65,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Linea: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://lineascan.build/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - ZKFair: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scan.zkfair.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Arbitrum Nova: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://nova.arbiscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Blast: [0x0F081cad5BCed7B2acA1c1D22CdafcB21322B280](https://blastscan.io/address/0x0F081cad5BCed7B2acA1c1D22CdafcB21322B280)
 
 ### Testnets
 
