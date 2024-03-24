@@ -25,6 +25,10 @@ order: 40
 - .based: [0x273dB54929d8392c1997Be361Da89D41af202a49](https://basescan.org/address/0x273dB54929d8392c1997Be361Da89D41af202a49) (this TLD is owned by the Based DAO) - [website](https://basednames.xyz/)
 - .basepunk: [0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876](https://basescan.org/address/0xc2C543D39426bfd1dB66bBde2Dd9E4a5c7212876) (this TLD is owned by the BasePunk NFT community) - [website](https://id.basepunk.xyz/)
 
+### Blast
+
+- .blastsniperz: [0xB241f801DFBa4a109EFA3f31C9269D437F2270aa](https://blastscan.io/address/0xB241f801DFBa4a109EFA3f31C9269D437F2270aa) (TLD for the BlastSniperz NFT community) - [website](https://id.blastsniperz.io)
+
 ### BNB Smart Chain
 
 - .safu: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://bscscan.com/token/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
