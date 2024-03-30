@@ -28,6 +28,7 @@ Each chain has its own PunkForbiddenTlds contract.
 - Arbitrum Nova: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://nova.arbiscan.io/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Mode: [0xa97c7af10ee564ebf452a9347bb9653454ba69c0](https://explorer.mode.network/address/0xa97c7af10ee564ebf452a9347bb9653454ba69c0)
 - Blast: [0xb29e981343daa6ea18D58cdB0800DFE962aA53e4](https://blastscan.io/address/0xb29e981343daa6ea18d58cdb0800dfe962aa53e4)
+- Degen: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://explorer.degen.tips/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 
 ### Testnets
 

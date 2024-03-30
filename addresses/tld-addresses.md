@@ -34,6 +34,10 @@ order: 40
 - .safu: [0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a](https://bscscan.com/token/0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a)
 - .huwa: [0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096](https://bscscan.com/token/0xeFBE0b46649B7A0F1e1D49CCa98aD9CF6bcFB096) (this TLD is owned by HUWA DAO) - [website](https://punk.domains/#/partners/huwa)
 
+### Degen Chain
+
+- .degen: [0x4087fb91A1fBdef05761C02714335D232a2Bf3a1](https://explorer.degen.tips/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1) - [website](https://nftdegen.lol/)
+
 ### Ethereum
 
 - .wildbunch: [0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb](https://etherscan.io/token/0xaa9E5Ade68C9C3Ea967Dc5dde731fd1f797152Cb) (this TLD is owned by The Wild Bunch) - [website](https://twb.punk.domains)
@@ -80,7 +84,6 @@ order: 40
 
 - .ape: [0x794a8390D94E32b086908D2bA9D66300aA163C62](https://polygonscan.com/token/0x794a8390D94E32b086908D2bA9D66300aA163C62)
 - .poly: [0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f](https://polygonscan.com/token/0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f)
-- .degen: [0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9](https://polygonscan.com/token/0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9)
 - .klima: [0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4](https://polygonscan.com/token/0xe8b97542A433e7eCc7bB791872af04DF02A1a6E4) (this TLD is owned by Gwami Labs) - [website](https://www.kns.earth)
 - .basin: [0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da](https://polygonscan.com/token/0x4bF5A99eA2F8De061f7D77BA9edd749503D945Da) (this TLD is owned by BasinDAO) - [website](https://app.basin.global)
 
@@ -106,3 +109,7 @@ order: 40
 
 - .web3: [0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B](https://polygonscan.com/token/0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B) ([Claim refund here](https://punk.domains/#/deprecate/web3))
 - .polygon: [0xa450bc33d0940d25fB0961c592fb440Fa63ABE03](https://polygonscan.com/token/0xa450bc33d0940d25fB0961c592fb440Fa63ABE03) ([Claim refund here](https://punk.domains/#/deprecate/polygon))
+
+### Migrated
+
+- .degen has migrated from [Polygon](https://polygonscan.com/token/0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9) to [Degen Chain](https://explorer.degen.tips/address/0x4087fb91A1fBdef05761C02714335D232a2Bf3a1).
