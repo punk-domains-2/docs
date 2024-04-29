@@ -105,6 +105,10 @@ order: 40
 
 - .zksoul: [0xe36507aD67Ac0aE6D27D22b407A9338b136315df](https://era.zksync.network/address/0xe36507aD67Ac0aE6D27D22b407A9338b136315df) - [website](https://id.zkchat.net)
 
+### Testnet
+
+- .sepolia: [0x1DD820F4f48eBC2B8e7F666F34fbC5820808074e](https://sepolia.etherscan.io/address/0x1DD820F4f48eBC2B8e7F666F34fbC5820808074e#code)
+
 ### Deprecated
 
 - .web3: [0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B](https://polygonscan.com/token/0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B) ([Claim refund here](https://punk.domains/#/deprecate/web3))

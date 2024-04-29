@@ -70,6 +70,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 
 ### Testnets
 
+- Sepolia Testnet: [0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE](https://sepolia.etherscan.io/address/0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE)
 - zkSync Era Testnet: [0x1667d9d508FE4F73f3004f431A27F2C225215C3C](https://goerli.explorer.zksync.io/address/0x1667d9d508FE4F73f3004f431A27F2C225215C3C)
 - Mantle Testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.testnet.mantle.xyz/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Optimism Goerli: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://goerli-optimism.etherscan.io/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)

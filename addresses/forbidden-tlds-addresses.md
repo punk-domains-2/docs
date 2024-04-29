@@ -32,6 +32,7 @@ Each chain has its own PunkForbiddenTlds contract.
 
 ### Testnets
 
+- Sepolia Testnet: [0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629](https://sepolia.etherscan.io/address/0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629)
 - Flare Testnet (Coston): [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://coston-explorer.flare.network/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Sokol (Gnosis Chain): [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://blockscout.com/poa/sokol/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a/contracts)
 - Optimism Kovan: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://kovan-optimistic.etherscan.io/address/0xc6c17896fa051083324f2ad0ed4555dc46d96e7f)

@@ -32,6 +32,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Testnets
 
+- Sepolia Testnet: [0xE806C55bd917Ccf93d66CE814e242878fc230CA2](https://sepolia.etherscan.io/address/0xE806C55bd917Ccf93d66CE814e242878fc230CA2)
 - Flare Testnet (Coston): [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://coston-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Sokol (Gnosis Chain): 
 - Optimism Kovan: [0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281](https://kovan-optimistic.etherscan.io/address/0xf3C6f268d9b5Fec8BDAEB26be2D6F8F910D4B281)
