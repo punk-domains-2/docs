@@ -29,6 +29,7 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - Blast: [0x1B293F3fEdBB97cE6e17b3AB08723a942A5B774c](https://blastscan.io/address/0x1B293F3fEdBB97cE6e17b3AB08723a942A5B774c)
 - zkSync Era: [0x027a5e79b08818d3E7f3f5D6C41c4f9de49ef3D8](https://era.zksync.network/address/0x027a5e79b08818d3E7f3f5D6C41c4f9de49ef3D8)
 - Degen: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.degen.tips/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Taiko: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://taikoscan.network/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 
