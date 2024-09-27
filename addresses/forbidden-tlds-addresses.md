@@ -30,9 +30,11 @@ Each chain has its own PunkForbiddenTlds contract.
 - Blast: [0xb29e981343daa6ea18D58cdB0800DFE962aA53e4](https://blastscan.io/address/0xb29e981343daa6ea18d58cdb0800dfe962aa53e4)
 - Degen: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://explorer.degen.tips/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
 - Taiko: [0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789](https://taikoscan.network/address/0xF51F7a532a2AaDFE8E2320bf5BA8275503bB3789)
+- Superposition: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.superposition.so/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 
 ### Testnets
 
+- Holesky Testnet: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://holesky.etherscan.io/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 - Sepolia Testnet: [0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629](https://sepolia.etherscan.io/address/0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629)
 - Flare Testnet (Coston): [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://coston-explorer.flare.network/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 - Sokol (Gnosis Chain): [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://blockscout.com/poa/sokol/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a/contracts)

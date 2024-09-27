@@ -68,9 +68,11 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Blast: [0x0F081cad5BCed7B2acA1c1D22CdafcB21322B280](https://blastscan.io/address/0x0F081cad5BCed7B2acA1c1D22CdafcB21322B280)
 - Degen: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.degen.tips/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Taiko: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://taikoscan.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
+- Superposition: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.superposition.so/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
 
 ### Testnets
 
+- Holesky Testnet: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://holesky.etherscan.io/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 - Sepolia Testnet: [0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE](https://sepolia.etherscan.io/address/0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE)
 - zkSync Era Testnet: [0x1667d9d508FE4F73f3004f431A27F2C225215C3C](https://goerli.explorer.zksync.io/address/0x1667d9d508FE4F73f3004f431A27F2C225215C3C)
 - Mantle Testnet: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.testnet.mantle.xyz/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)

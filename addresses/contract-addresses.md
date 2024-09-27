@@ -30,9 +30,11 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 - zkSync Era: [0x027a5e79b08818d3E7f3f5D6C41c4f9de49ef3D8](https://era.zksync.network/address/0x027a5e79b08818d3E7f3f5D6C41c4f9de49ef3D8)
 - Degen: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.degen.tips/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 - Taiko: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://taikoscan.network/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
+- Superposition: [0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1](https://explorer.superposition.so/address/0x2f5cd4366c16AFC3b04A4b2327BbFf9e3955dbC1)
 
 ### Testnets
 
+- Holesky Testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://holesky.etherscan.io/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 - Sepolia Testnet: [0xE806C55bd917Ccf93d66CE814e242878fc230CA2](https://sepolia.etherscan.io/address/0xE806C55bd917Ccf93d66CE814e242878fc230CA2)
 - Flare Testnet (Coston): [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://coston-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Sokol (Gnosis Chain): 
