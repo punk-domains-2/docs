@@ -72,6 +72,8 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 
 ### Testnets
 
+- Arbitrum Sepolia Testnet: [0x2F103ec022a1d99291077a082b2DC24C734E58A3](https://sepolia.arbiscan.io/address/0x2F103ec022a1d99291077a082b2DC24C734E58A3)
+- Celo Alfajores Testnet: [0x5e54CebB2612744cB56547bC7CC41466ad7ac557](https://alfajores.celoscan.io/address/0x5e54CebB2612744cB56547bC7CC41466ad7ac557)
 - Holesky Testnet: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://holesky.etherscan.io/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
 - Sepolia Testnet: [0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE](https://sepolia.etherscan.io/address/0x844d982FDc1F5C8eaD82E95d522F2486a7CBb3EE)
 - zkSync Era Testnet: [0x1667d9d508FE4F73f3004f431A27F2C225215C3C](https://goerli.explorer.zksync.io/address/0x1667d9d508FE4F73f3004f431A27F2C225215C3C)

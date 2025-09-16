@@ -34,6 +34,8 @@ Below are listed addresses for the first Punk Domains TLD factory which allows f
 
 ### Testnets
 
+- Arbitrum Sepolia Testnet: [0xF40284a811c82b4B9ab22E94Bb909Df6d2c66C08](https://sepolia.arbiscan.io/address/0xF40284a811c82b4B9ab22E94Bb909Df6d2c66C08)
+- Celo Alfajores Testnet: [0x2F103ec022a1d99291077a082b2DC24C734E58A3](https://alfajores.celoscan.io/address/0x2F103ec022a1d99291077a082b2DC24C734E58A3)
 - Holesky Testnet: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://holesky.etherscan.io/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 - Sepolia Testnet: [0xE806C55bd917Ccf93d66CE814e242878fc230CA2](https://sepolia.etherscan.io/address/0xE806C55bd917Ccf93d66CE814e242878fc230CA2)
 - Flare Testnet (Coston): [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://coston-explorer.flare.network/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)

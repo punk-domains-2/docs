@@ -34,6 +34,8 @@ Each chain has its own PunkForbiddenTlds contract.
 
 ### Testnets
 
+- Arbitrum Sepolia Testnet: [0x5e54CebB2612744cB56547bC7CC41466ad7ac557](https://sepolia.arbiscan.io/address/0x5e54CebB2612744cB56547bC7CC41466ad7ac557)
+- Celo Alfajores Testnet: [0x06A7Ab7Bb68b0ad6eB7688C5781E60BE6AFc658d](https://alfajores.celoscan.io/address/0x06A7Ab7Bb68b0ad6eB7688C5781E60BE6AFc658d)
 - Holesky Testnet: [0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1](https://holesky.etherscan.io/address/0xbbA4dB63DA448C124ee38EeC636b697CA9bdf9e1)
 - Sepolia Testnet: [0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629](https://sepolia.etherscan.io/address/0x44bBD7Ad92c1C1C0d48C0405666D9693FE285629)
 - Flare Testnet (Coston): [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://coston-explorer.flare.network/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
