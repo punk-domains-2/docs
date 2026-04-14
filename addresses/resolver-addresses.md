@@ -13,9 +13,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 ### Mainnets (proxy)
 
 - Songbird: [0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB](https://songbird-explorer.flare.network/address/0x7e8aB50697C7Abe63Bdab6B155C2FB8D285458cB)
-- Optimism: [0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06](https://optimistic.etherscan.io/address/0xF20fc12a4955c9d47194B8fEd591Fe01777D2b06)
 - Polygon PoS Chain: [0x07884566cdED43eDaec7813C1523624202b060D3](https://polygonscan.com/address/0x07884566cdED43eDaec7813C1523624202b060D3)
-- Arbitrum: [0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA](https://arbiscan.io/address/0xd64A2DF9d73CD1Cb50139A3eC3176070e00C67cA)
 - BSC: [0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c](https://bscscan.com/address/0x4aBf8b364ac4aF048Ea077AAA2EDF3e1e1EC0f9c)
 - Fantom: [0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0](https://ftmscan.com/address/0xa97c7AF10ee564EBf452A9347bB9653454Ba69C0)
 
@@ -57,7 +55,7 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 
 - Ethereum: [0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519](https://etherscan.io/address/0x985ecBD12566dD8BC05F4Df96729Ee84dE67F519)
 - Flare: [0x2919f0bE09549814ADF72fb0387D1981699fc6D4](https://flare-explorer.flare.network/address/0x2919f0bE09549814ADF72fb0387D1981699fc6D4)
-- Gnosis Chain: [0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17](https://blockscout.com/xdai/mainnet/address/0x4Ef2f5fE2211125b3cadca7FeaE4534D02C29e17)
+- Gnosis Chain: [0x6AbDd1Bf5078cC6b0D75caFCdDC69A8339067F50](https://blockscout.com/xdai/mainnet/address/0x6AbDd1Bf5078cC6b0D75caFCdDC69A8339067F50)
 - zkSync Era: [0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f](https://era.zksync.network/address/0x57e53D8d2e0f5779efe6d0817DFfCF3dbd47E58f)
 - Base: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://basescan.org/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Scroll: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://scrollscan.com/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
@@ -69,6 +67,8 @@ The following addresses are for upgradable Resolver contracts. If you prefer non
 - Degen: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://explorer.degen.tips/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Taiko: [0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a](https://taikoscan.network/address/0xeA2f99fE93E5D07F61334C5Eb9c54c5D5C957a6a)
 - Superposition: [0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f](https://explorer.superposition.so/address/0xC6c17896fa051083324f2aD0Ed4555dC46D96E7f)
+- Optimism: [0x249f1172Ebd8686386a5C0Ee704378B85acD0627](https://optimistic.etherscan.io/address/0x249f1172Ebd8686386a5C0Ee704378B85acD0627)
+- Arbitrum: [0xF558E00fc446252293Cf894cAF45F477aD66646A](https://arbiscan.io/address/0xF558E00fc446252293Cf894cAF45F477aD66646A)
 
 ### Testnets
 
